@@ -23,6 +23,7 @@
 
 <script setup lang="ts">
 import { ref, computed } from 'vue'
+import { imageUrl as buildSrc } from '@/utils/imageUrl'
 
 const props = defineProps<{
   imageUrl?: string
@@ -30,11 +31,6 @@ const props = defineProps<{
   alt?: string
 }>()
 
-function buildSrc(url?: string): string {
-  if (!url) return ''
-  if (url.startsWith('http') || url.startsWith('/')) return url
-  return `${import.meta.env.BASE_URL}images/games/${url}`
-}
 const src = ref(buildSrc(props.imageUrl))
 const imageLoaded = ref(false)
 
