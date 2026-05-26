@@ -10,7 +10,7 @@ import * as fs from 'fs'
 import * as path from 'path'
 import { fileURLToPath } from 'url'
 import * as dotenv from 'dotenv'
-import { fetchDetails, getBggClient, loadCache, saveCache, normalize, decodeHtml } from './searchBgg.ts'
+import { fetchDetails, getBggClient, loadCache, saveCache, normalize } from './searchBgg.ts'
 
 dotenv.config({ path: path.resolve(process.cwd(), '.env.local') })
 
@@ -112,7 +112,7 @@ async function main() {
     // Re-fetch si alternateNames absent du cache
     if (!cached?.alternateNames) {
       process.stdout.write(`  [${i + 1}/${toCheck.length}] BGG ${r.bggId} "${r.csvName}"… `)
-      details = await fetchDetails(client, r.bggId)
+      details = await fetchDetails(client, r.bggId) ?? cached
       if (details) {
         cache.details[r.bggId] = details
         console.log(`${details.alternateNames?.length ?? 0} alt. noms`)
