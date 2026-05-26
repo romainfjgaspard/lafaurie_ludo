@@ -30,13 +30,14 @@ function main() {
   const results: RawGame[] = []
   let skipped = 0
 
-  // Pas d'en-tête — la première ligne est déjà un jeu
+  const HEADER_VALUES = ['nom', 'noms', 'name', 'titre', 'title']
   for (let i = 0; i < rows.length; i++) {
     const row = rows[i]
     if (!row || row.length === 0) { skipped++; continue }
 
     const nom = String(row[0] ?? '').trim()
     if (!nom) { skipped++; continue }
+    if (i === 0 && HEADER_VALUES.includes(nom.toLowerCase())) { skipped++; continue }
 
     results.push({ nom })
   }
