@@ -1,0 +1,5230 @@
+{
+  "version": 1,
+  "confirmed": [
+    {
+      "csvName": "kingdomino",
+      "selectedBggId": 204583,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 204583,
+          "name": "Kingdomino",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 336104,
+          "name": "Heroes and Divided Lands (fan expansion for Kingdomino and Queendomino)",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 281960,
+          "name": "Kingdomino Duel",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 260941,
+          "name": "Kingdomino for 2 players",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 340041,
+          "name": "Kingdomino Origins",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 204583,
+        "name": "Kingdomino",
+        "type": "boardgame",
+        "yearPublished": 2016,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 15,
+        "maxPlaytime": 25,
+        "minAge": 8,
+        "bggRating": 7.28749,
+        "bggWeight": 1.239,
+        "communityBestPlayers": 2,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/204583",
+        "thumbnail": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__small/img/4p4Xydg0tze9UFcd6oUbCnVyxCw=/fit-in/200x150/filters:strip_icc()/pic8443569.png",
+        "image": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__original/img/HT6NQPT0cSFcZXjSewtjTO_NBAE=/0x0/filters:format(png)/pic8443569.png",
+        "description": "In Kingdomino, you are a lord seeking new lands in which to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, in order to spot the best plots, while competing with other lords to acquire them first.\n\nThe game uses tiles with two sections, similar to Dominoes. Each turn, each player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of w",
+        "categories": [
+          "Abstract Strategy",
+          "Medieval",
+          "Puzzle"
+        ],
+        "alternateNames": [
+          "K-Domino'Z",
+          "Kingdomino XXL",
+          "Kingdomino: Expo 2020",
+          "Kingdomino: Ένα Ντόμινο για το Βασιλιά",
+          "Kingdomino. Доміношне Королівство",
+          "Доміношне Королівство",
+          "Кингдомино",
+          "Лоскутное Королевство",
+          "Поскутное Королевство",
+          "קינגדומינו",
+          "キングドミノ",
+          "多米諾王國",
+          "킹도미노"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "haleakala",
+      "selectedBggId": 177727,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 177727,
+          "name": "Haleakala",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 444067,
+          "name": "Parks (Second Edition): Haleakalā National Park Promo Card",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 444067,
+          "name": "Parks (Second Edition): Haleakalā National Park Promo Card",
+          "type": "boardgameexpansion",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 177727,
+        "name": "Haleakala",
+        "type": "boardgame",
+        "yearPublished": 2015,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 40,
+        "maxPlaytime": 40,
+        "minAge": 12,
+        "bggRating": 6.57968,
+        "bggWeight": 2.375,
+        "communityBestPlayers": 2,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/177727",
+        "thumbnail": "https://cf.geekdo-images.com/rg9cZhJRFa3sNlsCSYFg2g__small/img/AU_x5tSvR_VOCP63SneFHGupSdM=/fit-in/200x150/filters:strip_icc()/pic2831205.png",
+        "image": "https://cf.geekdo-images.com/rg9cZhJRFa3sNlsCSYFg2g__original/img/R1NNGxrQnFAgsMMPCMgLyKBzGcE=/0x0/filters:format(png)/pic2831205.png",
+        "description": "In the two-player-game Haus der Sonne, players are building statues on the slopes of a volcano to honor their gods. The higher the statues are built up the volcano the more they score in one of the two scoring phases, but of course the closer they are build towards the crater the danger of being destroyed by volcanic eruption is higher as well.\n\nBy playing numbered chips (1-5) to the beach, you move a ship clockwise. The sector in which the ship is moved will be evaluated. If a player has placed",
+        "categories": [
+          "Mythology",
+          "Territory Building"
+        ],
+        "alternateNames": [
+          "Haus der Sonne",
+          "Stromboli"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "stadium",
+      "selectedBggId": 218418,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 218418,
+          "name": "Stadium",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 264975,
+          "name": "8Bit Box: Outspeed and Stadium – Goody Tiles",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 262637,
+          "name": "8Bit Box: Stadium",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 378322,
+          "name": "Build the Stadium or BUST!",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 19438,
+          "name": "County Stadium Pro Baseball Game",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 218418,
+        "name": "Stadium",
+        "type": "boardgame",
+        "yearPublished": 2017,
+        "minPlayers": 3,
+        "maxPlayers": 5,
+        "minPlaytime": 60,
+        "maxPlaytime": 90,
+        "minAge": 12,
+        "bggRating": 6.3,
+        "bggWeight": 2.5,
+        "communityBestPlayers": 3,
+        "communityMinAge": 12,
+        "bggLink": "https://boardgamegeek.com/boardgame/218418",
+        "thumbnail": "https://cf.geekdo-images.com/sFC7OK3rxnRrabowKShkdw__small/img/t00N9L0pAOb6ylBumXfOwqGOkv0=/fit-in/200x150/filters:strip_icc()/pic3367450.jpg",
+        "image": "https://cf.geekdo-images.com/sFC7OK3rxnRrabowKShkdw__original/img/Z7CElLBNK7BQwfv4eL7HekmX57E=/0x0/filters:format(jpeg)/pic3367450.jpg",
+        "description": "Stadium is a contest to see who can build the strongest professional football empire!\n\nThis is a worker placement game in which the board is a three-tiered stadium. Players must build on the ground level first as they sell concessions at games, buy equipment for the team, draft all pro players, and do their best to have a winning season. Players also hire employees who can inspire fans, sell more merchandise, train team members, and make building deals as they watch their franchise rise to the s",
+        "categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "csvName": "pixoid",
+      "selectedBggId": 262635,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 262635,
+          "name": "8Bit Box: Pixoid",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 262635,
+          "name": "8Bit Box: Pixoid",
+          "type": "boardgameexpansion",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 262635,
+        "name": "8Bit Box: Pixoid",
+        "type": "boardgameexpansion",
+        "yearPublished": 2018,
+        "minPlayers": 3,
+        "maxPlayers": 4,
+        "minPlaytime": 15,
+        "maxPlaytime": 15,
+        "minAge": 6,
+        "bggRating": 6.10039,
+        "bggWeight": 1,
+        "communityBestPlayers": 4,
+        "bggLink": "https://boardgamegeek.com/boardgameexpansion/262635",
+        "thumbnail": "https://cf.geekdo-images.com/yvkTLUODAnRJuHk3CHnaSA__small/img/L79rEzsrtZvccZCnujGsgedY8SQ=/fit-in/200x150/filters:strip_icc()/pic4357953.jpg",
+        "image": "https://cf.geekdo-images.com/yvkTLUODAnRJuHk3CHnaSA__original/img/WUUxty56LyTWmgn2r71AVAvOYm8=/0x0/filters:format(jpeg)/pic4357953.jpg",
+        "description": "Move around the Circuit Board using your controller. Playing as Pixoid? Try to escape the Bugs for as long as you can! Playing as a Bug? Do your best to coordinate your moves with the other Bugs to catch Pixoid as fast as possible!\n\nEach round, Pixoid is played by a different player. Once each player has played as Pixoid, whoever has the most victory points wins.\n\n&mdash;description from the publisher",
+        "categories": [
+          "Expansion for Base-game",
+          "Video Game Theme"
+        ],
+        "alternateNames": [
+          "8Bit Box：ピクソイド"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "outspeed",
+      "selectedBggId": 262636,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 262636,
+          "name": "8Bit Box: Outspeed",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 264975,
+          "name": "8Bit Box: Outspeed and Stadium – Goody Tiles",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 262636,
+          "name": "8Bit Box: Outspeed",
+          "type": "boardgameexpansion",
+          "score": 90
+        },
+        {
+          "id": 264975,
+          "name": "8Bit Box: Outspeed and Stadium – Goody Tiles",
+          "type": "boardgameexpansion",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 262636,
+        "name": "8Bit Box: Outspeed",
+        "type": "boardgameexpansion",
+        "yearPublished": 2018,
+        "minPlayers": 3,
+        "maxPlayers": 6,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 6.2899,
+        "bggWeight": 1.5,
+        "communityBestPlayers": 6,
+        "bggLink": "https://boardgamegeek.com/boardgameexpansion/262636",
+        "thumbnail": "https://cf.geekdo-images.com/Vry_aoNvA4M11NJVCTRkKA__small/img/4zcWOo39SS32VMx_dPc7tHdN_us=/fit-in/200x150/filters:strip_icc()/pic4357954.jpg",
+        "image": "https://cf.geekdo-images.com/Vry_aoNvA4M11NJVCTRkKA__original/img/sQyVtDRgsKCPCVYLz7T23NS3Tmc=/0x0/filters:format(jpeg)/pic4357954.jpg",
+        "description": "Using your controller, choose the route you&rsquo;ll take for the next leg of the race. There are many possible strategies, and you&rsquo;ll need to be cunning to be the first across the finish line. Managing your fuel level, accelerating at just the right time, and hindering your opponents will be the keys to success. Be in the lead at the end of the final tile to be declared the winner!\n\n&mdash;description from the publisher",
+        "categories": [
+          "Expansion for Base-game",
+          "Racing",
+          "Video Game Theme"
+        ],
+        "alternateNames": [
+          "8Bit Box：アウトスピード"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "monopoly grenoble",
+      "selectedBggId": 40288,
+      "score": 94,
+      "candidates": [
+        {
+          "id": 40288,
+          "name": "Monopoly: Grenoble",
+          "type": "boardgame",
+          "score": 94
+        }
+      ],
+      "details": {
+        "id": 40288,
+        "name": "Monopoly: Grenoble",
+        "type": "boardgame",
+        "yearPublished": 2002,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 90,
+        "maxPlaytime": 90,
+        "minAge": 8,
+        "bggRating": 5.25,
+        "bggLink": "https://boardgamegeek.com/boardgame/40288",
+        "thumbnail": "https://cf.geekdo-images.com/gdr5x46ctjRU4iaV5c_xug__small/img/97ME9QjvIryL7ovaTzsXSzxLJVQ=/fit-in/200x150/filters:strip_icc()/pic560813.jpg",
+        "image": "https://cf.geekdo-images.com/gdr5x46ctjRU4iaV5c_xug__original/img/pKN8nx9npcEvlPGwARkB3IzpMQc=/0x0/filters:format(jpeg)/pic560813.jpg",
+        "description": "A monopoly (from Greek monos &mu;ό&nu;&omicron;&sigmaf; (alone or single) + polein &pi;&omega;&lambda;&epsilon;ῖ&nu; (to sell)) exists when a specific person or enterprise is the only supplier of a particular commodity.\n\nMonopoly is a roll-and-move game where players move around the game board buying or trading properties, developing their properties with houses and hotels. When opponents land on players owned property, the owning player collects rent from the landing player. Owning sets of prop",
+        "categories": [
+          "Economic",
+          "Negotiation"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "spyworld",
+      "selectedBggId": 454696,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 454696,
+          "name": "Spyworld",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 454696,
+        "name": "Spyworld",
+        "type": "boardgame",
+        "yearPublished": 2026,
+        "minPlayers": 2,
+        "maxPlayers": 99,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 6.75506,
+        "bggWeight": 2,
+        "communityBestPlayers": 3,
+        "bggLink": "https://boardgamegeek.com/boardgame/454696",
+        "thumbnail": "https://cf.geekdo-images.com/nSL3_vwKnU9rwjH8SDz9TQ__small/img/oLc8DEep3uJ8y5-mNCRKlyOWOX0=/fit-in/200x150/filters:strip_icc()/pic9219071.jpg",
+        "image": "https://cf.geekdo-images.com/nSL3_vwKnU9rwjH8SDz9TQ__original/img/YKH_5T9TrJ0Ewz6-TbpoMuMPQvM=/0x0/filters:format(jpeg)/pic9219071.jpg",
+        "description": "After years of amassing riches and consolidating power, you dream of ruling the world. Because of course, you deserve to! Unfortunately, rivals think they can steal your spotlight. You must protect the secrets of your success by building your lair, installing traps, and recruiting sentries. You will also need to thwart your opponents&rsquo; plans by stealing their secrets.\n\nBut beware! Their lairs will also be heavily secured, so prepare carefully before breaking in.\n\n&mdash;description from the",
+        "categories": [
+          "Spies / Secret Agents"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "king of tokyo",
+      "selectedBggId": 70323,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 70323,
+          "name": "King of Tokyo",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 358112,
+          "name": "King of New York: King of Tokyo Power Up!",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 463297,
+          "name": "King of Tokyo Godzilla",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 250532,
+          "name": "King of Tokyo/New York: Monster Pack – Anubis",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 207292,
+          "name": "King of Tokyo/New York: Monster Pack – Cthulhu",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 70323,
+        "name": "King of Tokyo",
+        "type": "boardgame",
+        "yearPublished": 2011,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 7.11371,
+        "bggWeight": 1.4837,
+        "communityBestPlayers": 4,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/70323",
+        "thumbnail": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__small/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg",
+        "image": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__original/img/hSvWgiRYJCTTuoLOWTW3c8sYtl8=/0x0/filters:format(jpeg)/pic3043734.jpg",
+        "description": "In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens&mdash;all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.\n\nAt the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into under",
+        "categories": [
+          "Dice",
+          "Fighting",
+          "Movies / TV / Radio theme"
+        ],
+        "alternateNames": [
+          "King of Tokyo ملك توكيو",
+          "King of Tokyo: La Furia dei Mostri",
+          "Kralj Tokija",
+          "Potwory w Tokio",
+          "Regele din Tokyo",
+          "O Rei de Tóquio",
+          "Tokió Királya",
+          "Vládce Tokia",
+          "Ο Βασιλιάς Του Τόκυο",
+          "Володар Токіо",
+          "Кралят на Токио",
+          "Повелитель Токио",
+          "מלך טוקיו",
+          "ราชันแห่งโตเกียว",
+          "キング・オブ・トーキョー",
+          "新・キング・オブ・トーキョー",
+          "東京之王",
+          "킹 오브 도쿄"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "les aventuriers du rail (europe)",
+      "selectedBggId": 14996,
+      "score": 91,
+      "candidates": [
+        {
+          "id": 14996,
+          "name": "Les Aventuriers du Rail: Europe",
+          "type": "boardgame",
+          "score": 91
+        },
+        {
+          "id": 9209,
+          "name": "Les Aventuriers du Rail",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 53383,
+          "name": "Les Aventuriers du Rail:  Europe 1912",
+          "type": "boardgame",
+          "score": 81
+        },
+        {
+          "id": 53383,
+          "name": "Les Aventuriers du Rail:  Europe 1912",
+          "type": "boardgameexpansion",
+          "score": 81
+        },
+        {
+          "id": 258140,
+          "name": "Les Aventuriers du Rail Express",
+          "type": "boardgame",
+          "score": 78
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 14996,
+        "name": "Les Aventuriers du Rail: Europe",
+        "type": "boardgame",
+        "yearPublished": 2005,
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "minPlaytime": 30,
+        "maxPlaytime": 60,
+        "minAge": 8,
+        "bggRating": 7.52335,
+        "bggWeight": 1.9152,
+        "communityBestPlayers": 4,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/14996",
+        "thumbnail": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__small/img/XE-BFNwHZ0NZVko1pCj3gdFaGxY=/fit-in/200x150/filters:strip_icc()/pic9580918.jpg",
+        "image": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__original/img/LOC8D0q01ZRvZ6v1n7l8Zueos-E=/0x0/filters:format(jpeg)/pic9580918.jpg",
+        "description": "Ticket to Ride: Europe takes you on a new train adventure across Europe. From Edinburgh to Constantinople and from Lisbon to Moscow, you'll visit great cities of turn-of-the-century Europe. Like the original Ticket to Ride, the game remains elegantly simple, can be learned in 5 minutes, and appeals to both families and experienced gamers. Ticket to Ride: Europe is a complete, new game and does not require the original version.\n\nMore than just a new map, Ticket to Ride: Europe features brand new ",
+        "categories": [
+          "Trains"
+        ],
+        "alternateNames": [
+          "¡Aventureros al Tren! Europa",
+          "Les Aventuriers du Rail: Europe",
+          "Jízdenky, prosím! Evropa",
+          "Menolippu Eurooppa",
+          "Ticket to Ride אירופה",
+          "Ticket to Ride: Europa",
+          "Ticket to Ride: Európa",
+          "Ticket to Ride: Evrópa",
+          "Ticket to Ride: Evropa",
+          "Ticket to Ride: Ευρώπη",
+          "Ticket to Ride: Европа",
+          "Ticket to Ride: Європа",
+          "Wsiąść do Pociągu: Europa",
+          "Zug um Zug: Europa",
+          "سكة سفر: أوروبا",
+          "เกมต่อรถไฟยุโรป",
+          "チケット・トゥ・ライド・ヨーロッパ",
+          "鐵道任務-歐洲篇",
+          "铁路环游：欧洲篇",
+          "티켓 투 라이드: 유럽"
+        ]
+      }
+    },
+    {
+      "csvName": "qui est-ce?",
+      "selectedBggId": 4143,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 4143,
+          "name": "Qui est-ce?",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 439951,
+          "name": "Qui est-ce?: McDonald&#039;s Happy Meal",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 39872,
+          "name": "Super Qui est-ce ?",
+          "type": "boardgame",
+          "score": 61
+        },
+        {
+          "id": 11761,
+          "name": "Jeu des contraires: Qu&#039;est-ce qui est grand?",
+          "type": "boardgame",
+          "score": 20
+        }
+      ],
+      "details": {
+        "id": 4143,
+        "name": "Qui est-ce?",
+        "type": "boardgame",
+        "yearPublished": 1979,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 6,
+        "bggRating": 4.86023,
+        "bggWeight": 1.09,
+        "communityBestPlayers": 2,
+        "communityMinAge": 4,
+        "bggLink": "https://boardgamegeek.com/boardgame/4143",
+        "thumbnail": "https://cf.geekdo-images.com/9IzIcHIJVY08OYkXpTmUQA__small/img/4-XAZlic1sExGnS8GJM-SPT-SuY=/fit-in/200x150/filters:strip_icc()/pic335812.jpg",
+        "image": "https://cf.geekdo-images.com/9IzIcHIJVY08OYkXpTmUQA__original/img/q1l1MJ_QM6gRk4JaZVPs6Uzkrjk=/0x0/filters:format(jpeg)/pic335812.jpg",
+        "description": "The mystery face game where you flip over a collection of faces with different color hair, eye color, hair, hats, glasses etc.  to deduce who the secret person is that your opponent has chosen. You flip over the hooked tiles as you narrow your choices by asking characteristic questions.",
+        "categories": [
+          "Children&#039;s Game",
+          "Deduction",
+          "Movies / TV / Radio theme"
+        ],
+        "alternateNames": [
+          "¿Quién es quién?",
+          "¿Quién es quién? Star Wars",
+          "¿Quien soy yo?",
+          "Adivina Quien?",
+          "Adivinha Quem?",
+          "Arvaa kuka?",
+          "Bil Bakalım Kim?",
+          "Caccia Al Colpevole?",
+          "Cara a Cara?",
+          "Cara a Cara? Marvel Heroes",
+          "Cara a Cara? Princesas Disney",
+          "Cual es Cual?",
+          "Descobre Quem Sou?",
+          "Gettu hver?",
+          "Gissa vem?",
+          "Gjett hvem?",
+          "Guess Who? Cars 2",
+          "Guess Who? Disney Edition",
+          "Guess Who? Disney Jr",
+          "Guess Who? Disney Princess",
+          "Guess Who? Fun on the Run",
+          "Guess Who? Giant Edition",
+          "Guess Who? Grab&Go",
+          "Guess Who? Littlest Pet Shop Edition",
+          "Guess Who? Marvel Heroes Edition",
+          "Guess Who? NFL Edition",
+          "Guess Who? Star Wars Edition",
+          "Guess Who? Wizarding World: Harry Potter",
+          "Guess Who?: Animal Crossing New Horizons",
+          "Guess Who?: English Heritage",
+          "Guess Who?: Mythical Edition",
+          "Guess Who?: Super Mario",
+          "Hádej, kdo je to?",
+          "Hvem er hvem?",
+          "Identitet Okänd?!",
+          "Indovina chi?",
+          "Indovina Chi? Juventus",
+          "Kabouter Plop de Zoekkampioen",
+          "Kto to jest?",
+          "Mijn eerste Wie Is Het?",
+          "Pokémon Diamond and Pearl: Guess That Pokémon",
+          "Power Rangers Samurai: Guessing Game",
+          "Profiler",
+          "Qui est-ce?",
+          "Qui est-ce? Disney Pixar",
+          "Qui est-ce? Olympique Lyonnais",
+          "Qui Est-ce?: Équipe de France – FFF",
+          "Qui suis-je: Who Am I",
+          "Qui suis-je?",
+          "Quien Puedo Ser?",
+          "Quién se esconde?",
+          "Der Sohn des Asterix: Wer ist es?",
+          "SpongeBob Erinnere Dich?",
+          "Thomas & Friends Guessing Game",
+          "Travel Guess Who?",
+          "Vem där?",
+          "Wer Bin Ich?",
+          "Wer ist es?",
+          "Wer war's?",
+          "Which Hero is it?",
+          "Who Am I?",
+          "Who Is It?",
+          "Who's who?",
+          "Who's Your Friend?",
+          "Whoosit?",
+          "Wie is 't?",
+          "Wie is het?",
+          "Zagadkowe ZOO",
+          "Zgadnij kto to?",
+          "Μάντεψε Ποιος?",
+          "Μάντεψε ποιός?: Disney edition",
+          "Угадай кто?",
+          "נחש מי",
+          "猜猜我是誰？",
+          "누구일까요?"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "quarto",
+      "selectedBggId": 681,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 681,
+          "name": "Quarto",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 101859,
+          "name": "Quarto",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 445095,
+          "name": "Malabares: Quarto Malabarista",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 128838,
+          "name": "Memo Quarto 4 Albrecht Dürer",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 445095,
+          "name": "Malabares: Quarto Malabarista",
+          "type": "boardgameexpansion",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 681,
+        "name": "Quarto",
+        "type": "boardgame",
+        "yearPublished": 1991,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 8,
+        "bggRating": 6.90069,
+        "bggWeight": 1.8704,
+        "communityBestPlayers": 2,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/681",
+        "thumbnail": "https://cf.geekdo-images.com/e7eP58UJVDA1wC5pWjCPqg__small/img/cC_DGL1tsiIpjuR_IXnQzqSBeAI=/fit-in/200x150/filters:strip_icc()/pic3488229.jpg",
+        "image": "https://cf.geekdo-images.com/e7eP58UJVDA1wC5pWjCPqg__original/img/dzB-D9RT7RUE_nTCZ8qVyAFB5Sw=/0x0/filters:format(jpeg)/pic3488229.jpg",
+        "description": "Quarto has a 4&times;4 board and 16 pieces. Each piece has four dichotomous attributes &mdash; color, height, shape, and consistency &mdash; so each piece is either black or white, tall or short, square or round, and hollow or solid. The object is to place the fourth piece in a row in which all four pieces have at least one attribute in common. The twist is that your opponent gets to choose the piece you place on the board each turn.\n\nA winner of the 1985 Concours International de Créateurs de J",
+        "categories": [
+          "Abstract Strategy",
+          "Children&#039;s Game"
+        ],
+        "alternateNames": [
+          "Mind Game",
+          "Quarto Access",
+          "Quarto Deluxe",
+          "Quarto Giant",
+          "Quarto Mini",
+          "Quarto Pocket",
+          "Quarto!",
+          "Quarto! Classic",
+          "Quarto! Géant",
+          "Quarto! Le grand fossé",
+          "Quarto! Magnetic",
+          "Quarto! Travel",
+          "Winning Together",
+          "Кварто",
+          "四连战：迷你版",
+          "四連戰",
+          "콰르토"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "mastermind",
+      "selectedBggId": 2392,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 2392,
+          "name": "Mastermind",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 461306,
+          "name": "5-Minute Mystery: Mastermind Upgrade Pack",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 85827,
+          "name": "Animal Mastermind Towers",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 278191,
+          "name": "Batman: The Animated Series – Gotham City Under Siege: Masterminds & Mayhem",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 242355,
+          "name": "Criminal Masterminds",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 2392,
+        "name": "Mastermind",
+        "type": "boardgame",
+        "yearPublished": 1971,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 8,
+        "bggRating": 5.68194,
+        "bggWeight": 1.7811,
+        "communityBestPlayers": 2,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/2392",
+        "thumbnail": "https://cf.geekdo-images.com/im_XE341_hfKMchAeH6mtw__small/img/svbdyni5otrt0xyJbgsAsuBoEUM=/fit-in/200x150/filters:strip_icc()/pic1118956.jpg",
+        "image": "https://cf.geekdo-images.com/im_XE341_hfKMchAeH6mtw__original/img/8DHauNAVePanWVWT0zIgSkcFrHw=/0x0/filters:format(jpeg)/pic1118956.jpg",
+        "description": "Test your code-cracking prowess with mastermind, the challenging game of logic and deduction. Can you crack the code in 10 moves or less? Can you create a code that can't be cracked? With more than 55 million units sold, Mastermind is a great strategy game, and one of the worlds most popular games ever. It&rsquo;s easy to learn and fast to play, and with more than 2,000 possible codes, it&rsquo;s different every time. The codemaker sets a secret code, and then the codebreaker tries to match the ",
+        "categories": [
+          "Abstract Strategy",
+          "Deduction"
+        ],
+        "alternateNames": [
+          "Brain Master",
+          "Code Secrète",
+          "Codice Enigma",
+          "Codice Segreto",
+          "Código Secreto",
+          "Cyber Mind",
+          "Epilogi",
+          "Färgkoden",
+          "Geheimcode",
+          "Geheime Code",
+          "Magnetic Secret Code",
+          "Master Logic",
+          "Master Mind",
+          "Master Mind Colours",
+          "Master Mind Superhirn",
+          "Masterman",
+          "Mastermind: Codemaker vs. Codebreaker",
+          "Mesterlogika",
+          "Mister Ming",
+          "Mistrz Intelektu",
+          "Mistrz Logiki",
+          "New Original Master Mind",
+          "The Original Master Mind",
+          "Original Master Mind, Mistrz Intelektu",
+          "Picas y Fijas",
+          "Playmind",
+          "Le plus malin",
+          "Revansch",
+          "Revanssi",
+          "Secret Code",
+          "Senha",
+          "Super Code",
+          "Supercode",
+          "Superhirn",
+          "Superhirn Professional",
+          "Toque y Fama",
+          "猜數字",
+          "神機妙算",
+          "解码大师",
+          "시크릿 코드"
+        ]
+      }
+    },
+    {
+      "csvName": "twister",
+      "selectedBggId": 5894,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 5894,
+          "name": "Twister",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 17198,
+          "name": "Animal Twister",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 221134,
+          "name": "Blend Off!: Mystery Twisters",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 266000,
+          "name": "Blindfolded Twister",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 7688,
+          "name": "Brain Twister",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 5894,
+        "name": "Twister",
+        "type": "boardgame",
+        "yearPublished": 1966,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 10,
+        "maxPlaytime": 10,
+        "minAge": 6,
+        "bggRating": 4.56461,
+        "bggWeight": 1.0887,
+        "communityBestPlayers": 4,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/5894",
+        "thumbnail": "https://cf.geekdo-images.com/RuJHXpILS6DC9O18zl_HoQ__small/img/ns599-p4peek0jNiUjiMGAlyd6A=/fit-in/200x150/filters:strip_icc()/pic9453572.png",
+        "image": "https://cf.geekdo-images.com/RuJHXpILS6DC9O18zl_HoQ__original/img/JRn1IA-QtMrefZ85h8wu2kwSoIE=/0x0/filters:format(png)/pic9453572.png",
+        "description": "A large vinyl playing mat is placed on the floor, with a 6 x 4 array of spots, each spot about 6 inches in diameter. The spots are colored red, blue, yellow, and green. A player is chosen to moderate, and the rest of the players, up to 4, stand on the play mat with their feet on different spots.\n\nEach turn consists of the moderator spinning a spinner, which gives a result matching a random color with a random element from the set (left hand, right hand, left foot, right foot). Each player must p",
+        "categories": [
+          "Action / Dexterity",
+          "Children&#039;s Game",
+          "Party Game"
+        ],
+        "alternateNames": [
+          "All Fall Down",
+          "Bedrock",
+          "Body Balance",
+          "Enredos",
+          "The Jungle Book Twister",
+          "Let's Twist Again",
+          "Lil' Twister",
+          "Melktwister",
+          "Pretzel",
+          "Table Top Twister",
+          "Twist",
+          "Twister Kersteditie",
+          "Twister Napkins",
+          "Twister Pink",
+          "Wygibajtus",
+          "Твистер",
+          "פלונטר",
+          "ツイスター",
+          "지그재그"
+        ]
+      }
+    },
+    {
+      "csvName": "similo animaux",
+      "selectedBggId": 268620,
+      "score": 93,
+      "candidates": [
+        {
+          "id": 268620,
+          "name": "Similo: Animaux",
+          "type": "boardgame",
+          "score": 93
+        },
+        {
+          "id": 451804,
+          "name": "Similo: Animaux Aquatiques – Cartes Promo",
+          "type": "boardgame",
+          "score": 34
+        },
+        {
+          "id": 451804,
+          "name": "Similo: Animaux Aquatiques – Cartes Promo",
+          "type": "boardgameexpansion",
+          "score": 34
+        }
+      ],
+      "details": {
+        "id": 268620,
+        "name": "Similo: Animaux",
+        "type": "boardgame",
+        "yearPublished": 2019,
+        "minPlayers": 2,
+        "maxPlayers": 8,
+        "minPlaytime": 10,
+        "maxPlaytime": 15,
+        "minAge": 7,
+        "bggRating": 6.79416,
+        "bggWeight": 1.0508,
+        "communityBestPlayers": 4,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/268620",
+        "thumbnail": "https://cf.geekdo-images.com/fl0hNCmltu2hpcmXaVnmLg__small/img/Nwxz6SRTlKky0ynhYUEk2ooRZc4=/fit-in/200x150/filters:strip_icc()/pic6417388.png",
+        "image": "https://cf.geekdo-images.com/fl0hNCmltu2hpcmXaVnmLg__original/img/1kS0DQYV4y8HQdAmSlNhOW01Lhg=/0x0/filters:format(png)/pic6417388.png",
+        "description": "Similo  is a co-operative deduction game, and each version of the game &mdash; e.g., Fables, History, Myths &mdash; comes with a deck of thirty cards, beautifully illustrated by Na&iuml;ade, showing the portrait and the name of a series of characters with a common theme.\n\nYour goal is to make the other players guess one secret character (out of the twelve characters on display in the middle of the table) by playing other character cards from your hand as clues, stating whether they are similar t",
+        "categories": [
+          "Animals",
+          "Card Game",
+          "Children&#039;s Game"
+        ],
+        "alternateNames": [
+          "SIMILO ΠΑΡΑΜΥΘΙΑ",
+          "Similo: 10 Years of Horribleness",
+          "Similo: Állatok",
+          "Similo: Animales",
+          "Similo: Animales Fantásticos",
+          "Similo: Animales Salvajes",
+          "Similo: Animali",
+          "Similo: Animali Fantastici e Dove Trovarli",
+          "Similo: Animali Selvaggi",
+          "Similo: Animals",
+          "Similo: Animaux",
+          "Similo: Animaux Fantastiques",
+          "Similo: Animaux Sauvages",
+          "Similo: Aquatic Animals",
+          "Similo: Báje",
+          "Similo: Basme",
+          "Similo: Baśnie",
+          "Similo: Board Games '22",
+          "Similo: Board Games '23",
+          "Similo: Board Games '24",
+          "Similo: Board Games '25",
+          "Similo: Brividi",
+          "Similo: Contes",
+          "Similo: Contos",
+          "Similo: Der Herr der Ringe",
+          "Similo: Dieren",
+          "Similo: El Señor de los Anillos",
+          "Similo: Espeluznante",
+          "Similo: Fables",
+          "Similo: Fábulas",
+          "Similo: Fantastic Beasts and Where to Find Them",
+          "Similo: Fantastická zvířata",
+          "Similo: Fiabe",
+          "Similo: Geschichte",
+          "Similo: Halloween",
+          "Similo: Harry Potter",
+          "Similo: Histoire",
+          "Similo: Historia",
+          "Similo: História",
+          "Similo: Historie",
+          "Similo: History",
+          "Similo: Il Signore degli Anelli",
+          "Similo: Istorie",
+          "Similo: Jurassic World",
+          "Similo: Le Seigneur des Anneaux",
+          "Similo: Märchen",
+          "Similo: Mesék",
+          "Similo: Miti",
+          "Similo: Mitos",
+          "Similo: Mítosz",
+          "Similo: Mity",
+          "Similo: Monstres",
+          "Similo: Monstros",
+          "Similo: Mythen",
+          "Similo: Mythes",
+          "Similo: Myths",
+          "Similo: O Senhor dos Anéis",
+          "Similo: Pán prstenů",
+          "Similo: Phantastische Tierwesen",
+          "Similo: Pod hladinou",
+          "Similo: Pohádky",
+          "Similo: Rémségek",
+          "Similo: Safari",
+          "Similo: Spookies",
+          "Similo: Sprookjes",
+          "Similo: Storia",
+          "Similo: Strašidla",
+          "Similo: The Lord of the Rings",
+          "Similo: Tiere",
+          "Similo: Történelem",
+          "Similo: Vadállatok",
+          "Similo: Wassertiere",
+          "Similo: Wild Animals",
+          "Similo: Wilde Dieren",
+          "Similo: Wilde Tiere",
+          "Similo: Wonders",
+          "Similo: Zvířata",
+          "Similo: ΜΥΘΟΛΟΓΙΑ",
+          "Similo: Животные",
+          "Similo: Зоопарк",
+          "Similo: История",
+          "Similo: Мифы",
+          "Similo: Океаны",
+          "Similo: Сказки",
+          "Similo: Страшилки",
+          "Сіміло. Тварини",
+          "シミロ：アニマル",
+          "シミロ：ワイルドアニマル",
+          "性格靈通：動物",
+          "性格靈通：哈利波特",
+          "性格靈通：寓言",
+          "性格靈通：歷史",
+          "性格靈通：神話",
+          "性格靈通：鬼怪",
+          "시밀로: Halloween",
+          "시밀로: 동화편",
+          "시밀로: 신화편",
+          "시밀로: 역사편"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "dingo disc",
+      "selectedBggId": 319598,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 319598,
+          "name": "Dingo Disc",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 319598,
+        "name": "Dingo Disc",
+        "type": "boardgame",
+        "yearPublished": 2013,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 5,
+        "bggRating": 6.42857,
+        "bggWeight": 1,
+        "bggLink": "https://boardgamegeek.com/boardgame/319598",
+        "thumbnail": "https://cf.geekdo-images.com/BXn7ktmLQ2taWIpK6UQweA__small/img/HV0hc9afL-zLMkRMEN9IoZGkz3c=/fit-in/200x150/filters:strip_icc()/pic8966742.png",
+        "image": "https://cf.geekdo-images.com/BXn7ktmLQ2taWIpK6UQweA__original/img/rCIRa0NHp4YHOajmatTjk6q9Xdo=/0x0/filters:format(png)/pic8966742.png",
+        "description": "Dingo Disc is a game of skill, balance, strategy, and luck in which players must place all of their counters on a balanced disk without dropping the counters that have already been placed.\n\nOn a turn, you roll two dice: the color die determines the colored area of the disk where you must place, and the number die the location within that area. Whoever places all of their counters first wins &mdash; and any player who spills all the counters off the disk automatically loses.",
+        "categories": [
+          "Abstract Strategy",
+          "Action / Dexterity",
+          "Party Game"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "dobble (stitch)",
+      "selectedBggId": 63268,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 63268,
+          "name": "Dobble",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 448778,
+          "name": "Dobble CATAN",
+          "type": "boardgame",
+          "score": 53
+        },
+        {
+          "id": 381429,
+          "name": "Dobble Connect",
+          "type": "boardgame",
+          "score": 53
+        },
+        {
+          "id": 431838,
+          "name": "Dobble Giant",
+          "type": "boardgame",
+          "score": 53
+        },
+        {
+          "id": 375753,
+          "name": "Dobble Access+",
+          "type": "boardgame",
+          "score": 47
+        }
+      ],
+      "details": {
+        "id": 63268,
+        "name": "Dobble",
+        "type": "boardgame",
+        "yearPublished": 2009,
+        "minPlayers": 2,
+        "maxPlayers": 8,
+        "minPlaytime": 15,
+        "maxPlaytime": 15,
+        "minAge": 6,
+        "bggRating": 6.52555,
+        "bggWeight": 1.0377,
+        "communityBestPlayers": 4,
+        "communityMinAge": 4,
+        "bggLink": "https://boardgamegeek.com/boardgame/63268",
+        "thumbnail": "https://cf.geekdo-images.com/hqDT4HbEb2eNCyMOeiGj-g__small/img/ZNgW2QhLjYpVltWHy3LyJqstnow=/fit-in/200x150/filters:strip_icc()/pic6477003.png",
+        "image": "https://cf.geekdo-images.com/hqDT4HbEb2eNCyMOeiGj-g__original/img/6w3wjI3YZOWa8XLxoKQqg3XnbN0=/0x0/filters:format(png)/pic6477003.png",
+        "description": "Spot it!, a.k.a. Dobble, is a simple pattern recognition game in which players try to find an image shown on two cards.\n\nEach card in original Spot it! features eight different symbols, with the symbols varying in size from one card to the next. Any two cards have exactly one symbol in common. For the basic Spot it! game, reveal one card, then another. Whoever spots the symbol in common on both cards claims the first card, then another card is revealed for players to search, and so on. Whoever h",
+        "categories": [
+          "Card Game",
+          "Children&#039;s Game",
+          "Educational"
+        ],
+        "alternateNames": [
+          "Dobble",
+          "Dobble «На Пляжі»",
+          "Dobble 31 Minutos",
+          "Dobble À prova d'água",
+          "Dobble Animal Crossing",
+          "Dobble Animals",
+          "Dobble Anniversary",
+          "Dobble Asterix",
+          "Dobble Belgium",
+          "Dobble Breizh",
+          "Dobble Camping",
+          "Dobble Chrono",
+          "Dobble Clásico",
+          "Dobble Classic",
+          "Dobble Classique",
+          "Dobble Collector",
+          "Dobble Corsica",
+          "Dobble DC",
+          "Dobble des marques",
+          "Dobble Dinosaurs",
+          "Dobble Friends",
+          "Dobble Harry Potter",
+          "Dobble Hollywood",
+          "Dobble Jégvarázs II",
+          "Dobble Jeux Olympiques Paris 2024",
+          "Dobble Kids",
+          "Dobble Kraina Lodu 2",
+          "Dobble Kultura",
+          "Dobble Lifestyle",
+          "Dobble Marvel",
+          "Dobble Minionki",
+          "Dobble Minions",
+          "Dobble One Piece",
+          "Dobble Palmeiras",
+          "Dobble Paw Patrol",
+          "Dobble Psi Patrol",
+          "Dobble S.F.C.",
+          "Dobble Smurfen",
+          "Dobble Star Wars: Mandalorian",
+          "Dobble Super Mario",
+          "Dobble Večerníček",
+          "Dobble Waterproof",
+          "Dobble Wodoodporne",
+          "Dobble XXL",
+          "Dobble Zoo",
+          "Dobble Zwierzaki",
+          "Dobble Гаррі Поттер",
+          "Dobble Животиње",
+          "Dobble Тваринний Світ",
+          "Dobble: Futebol – Corinthians",
+          "Dobble: Harry Potter",
+          "Dobble: Lapins Crétins",
+          "Dobble: Louvre",
+          "Dobble: Star Wars",
+          "Dobble: Ψυχρά κι Ανάποδα 2",
+          "Kig & find",
+          "Look & Find",
+          "Moomin",
+          "Pippi",
+          "Postreh Zvieratá",
+          "Spot It! Adventure Fun",
+          "Spot it! Alphabet: Frozen",
+          "Spot it! Alphabet: Planes",
+          "Spot it! Alphabet: Sofia the First",
+          "Spot it! Animals",
+          "Spot it! Arabia",
+          "Spot it! Asterix",
+          "Spot it! Auburn Tigers",
+          "Spot it! Basic English",
+          "Spot it! Basic French",
+          "Spot it! Basic Spanish",
+          "Spot it! Beach",
+          "Spot it! Bluey",
+          "Spot It! Camping",
+          "Spot It! Chicago Cubs Edition",
+          "Spot It! Classic",
+          "Spot It! Collector",
+          "Spot It! Detroit Tigers Edition",
+          "Spot it! Disney Princesses",
+          "Spot it! Easter",
+          "Spot it! FAO Schwarz",
+          "Spot It! Finding Dory",
+          "Spot it! Fishing",
+          "Spot It! Friends",
+          "Spot it! Frozen II",
+          "Spot it! Golf",
+          "Spot it! Gone Camping",
+          "Spot it! Halloween",
+          "Spot it! Hip",
+          "Spot it! Holidays",
+          "Spot It! Marvel",
+          "Spot it! Marvel Emoji",
+          "Spot It! Minions",
+          "Spot it! MLB",
+          "Spot It! NFL",
+          "Spot it! NHL",
+          "Spot It! Numbers & Shapes",
+          "Spot it! Original Squishmallows",
+          "Spot it! Preschool",
+          "Spot it! San Francisco",
+          "Spot It! Seattle Seahawks edition",
+          "Spot it! Shalom",
+          "Spot it! Shopkins",
+          "Spot it! Signature",
+          "Spot it! Smile Edition",
+          "Spot it! Splash",
+          "Spot it! SpongeBob SquarePants",
+          "Spot it! Sports",
+          "Spot it! Star Wars: Mandalorian",
+          "Spot it! Stitch",
+          "Spot it! Teenage Mutant Ninja Turtles",
+          "Spot it! Waterproof",
+          "Spot it! Words: Disney • Pixar",
+          "Spot it! Words: Disney Princess",
+          "Spot it!: Classic",
+          "Spot it!: Harry Potter",
+          "Tvenna",
+          "Winter Wonderland",
+          "World's Smallest Spot it!",
+          "Доббль",
+          "Доббль: Холодное сердце",
+          "Доббль. Гарри Поттер",
+          "Доббль. Миньоны",
+          "דאבל!",
+          "أسرع منك",
+          "ด็อบเบิล",
+          "ด็อบเบิล Minions",
+          "ドブル",
+          "ドブル　ポケットモンスター",
+          "ドブルキッズ",
+          "ドラえもん DOBBLE(ドブル)",
+          "ワンピース DOBBLE(ドブル)",
+          "嗒宝",
+          "嗒寶",
+          "嗒寶：哈利波特",
+          "도블",
+          "도블 MARVEL",
+          "도블 동물원",
+          "도블 미니언즈",
+          "도블 캠핑",
+          "도블 컬렉터스 에디션",
+          "도블 포켓몬",
+          "도블 해리 포터",
+          "도블: 겨울왕국 2"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "fort boyard",
+      "selectedBggId": 30334,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 30334,
+          "name": "Fort Boyard",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 320560,
+          "name": "Fort Boyard",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 320454,
+          "name": "Les clés de Fort Boyard",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 322013,
+          "name": "Le fort Boyard Cube Quizz",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 320561,
+          "name": "Fort Boyard: Escape Box",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 30334,
+        "name": "Fort Boyard",
+        "type": "boardgame",
+        "yearPublished": 1998,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 45,
+        "maxPlaytime": 45,
+        "minAge": 8,
+        "bggRating": 5.01905,
+        "bggWeight": 1,
+        "communityBestPlayers": 4,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/30334",
+        "thumbnail": "https://cf.geekdo-images.com/kdOr3cYHtHkTYisVx1gp5w__small/img/Ff-RstSylO3lpSaERtkJf3xy8Sc=/fit-in/200x150/filters:strip_icc()/pic442479.jpg",
+        "image": "https://cf.geekdo-images.com/kdOr3cYHtHkTYisVx1gp5w__original/img/CLZjKTnllwht1xy9TpoOf-yGdSw=/0x0/filters:format(jpeg)/pic442479.jpg",
+        "description": "This game is based on the French TV Game Show \"Fort Boyard\".\nFort Boyard' is a real fort located on the west coast of France, built to protect the arsenal of Rochefort and finished 1857. Later used as a prison.\n\nPlayers examine rooms to get keys with which they can open at the end of the game a chest filled with gold. Some keys are obtainable by answering questions or solving riddles, other keys only by physical challenges. A timer rises tension to fulfill the quests.",
+        "categories": [
+          "Action / Dexterity",
+          "Adventure",
+          "Deduction"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "schotten totten",
+      "selectedBggId": 372,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 372,
+          "name": "Schotten Totten",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 300930,
+          "name": "Schotten Totten 2",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 372,
+        "name": "Schotten Totten",
+        "type": "boardgame",
+        "yearPublished": 1999,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 8,
+        "bggRating": 7.35099,
+        "bggWeight": 1.6723,
+        "communityBestPlayers": 2,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/372",
+        "thumbnail": "https://cf.geekdo-images.com/69mwXe7c6HNYmT6S35Y4zg__small/img/97DW-2XWDrSSkgy3XnUJ7f7tLiQ=/fit-in/200x150/filters:strip_icc()/pic2932872.jpg",
+        "image": "https://cf.geekdo-images.com/69mwXe7c6HNYmT6S35Y4zg__original/img/C5YBiD7Qhpkf5FO1GteEjo9KRVE=/0x0/filters:format(jpeg)/pic2932872.jpg",
+        "description": "In Schotten Totten, nine boundary stones lie between you and your opponent.  In front of each, you build poker-like formations of three cards on a side.  Whoever plays the higher-ranking formation wins the stone.  And in a unique twist, you may use your powers of logic to claim a stone even before your opponent has played all three of his cards, by demonstrating that the stone is impossible for him to win.  Successfully claim five stones, or any three adjacent stones, and you win the game.\n\nIn 2",
+        "categories": [
+          "Card Game"
+        ],
+        "alternateNames": [
+          "Schotten-Totten",
+          "Skol ty Skoty!",
+          "Spór o Bór",
+          "Шотен Тотен",
+          "쇼텐 토텐"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "code names",
+      "selectedBggId": 287655,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 287655,
+          "name": "Code",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 178900,
+          "name": "Codenames",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 42063,
+          "name": "Code Master",
+          "type": "boardgame",
+          "score": 64
+        },
+        {
+          "id": 410352,
+          "name": "Code Breakers",
+          "type": "boardgame",
+          "score": 62
+        },
+        {
+          "id": 344698,
+          "name": "Code Crackers",
+          "type": "boardgame",
+          "score": 62
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 287655,
+        "name": "Cracked",
+        "type": "boardgame",
+        "yearPublished": 2019,
+        "minPlayers": 2,
+        "maxPlayers": 8,
+        "minPlaytime": 5,
+        "maxPlaytime": 15,
+        "minAge": 8,
+        "bggRating": 5.19474,
+        "bggWeight": 1,
+        "communityBestPlayers": 4,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/287655",
+        "thumbnail": "https://cf.geekdo-images.com/Id0oqQ8eTK4ilrNB51UN-A__small/img/-fnR2W99CmeSK1mshgiKLRVx-CY=/fit-in/200x150/filters:strip_icc()/pic4953267.jpg",
+        "image": "https://cf.geekdo-images.com/Id0oqQ8eTK4ilrNB51UN-A__original/img/JWC4PO2PVtbaFGSWpC3gm0ch4PQ=/0x0/filters:format(jpeg)/pic4953267.jpg",
+        "description": "Have you ever needed to crack a code, say to a new phone you bought second hand? If so (or even if you&rsquo;ve just seen all that goes into it from movies like Mission Impossible and The Da Vinci Code), then you know how incredibly important&mdash;and difficult&mdash;it can be.\n\nWelcome to Cracked, the fast and furious strategic card game for 2-8 players. In Cracked, players race to be the first to end the game by having four cards in their hand that matches their unique code card. Sound simple",
+        "categories": [
+          "Card Game"
+        ],
+        "alternateNames": [
+          "Code"
+        ]
+      }
+    },
+    {
+      "csvName": "vedrfölnir",
+      "selectedBggId": 382607,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 382607,
+          "name": "Vedrfölnir",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 460027,
+          "name": "Vedrfölnir: Artefacts",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 460027,
+          "name": "Vedrfölnir: Artefacts",
+          "type": "boardgameexpansion",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 382607,
+        "name": "Vedrfölnir",
+        "type": "boardgame",
+        "yearPublished": 2023,
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "minPlaytime": 20,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 7,
+        "bggWeight": 2.6667,
+        "bggLink": "https://boardgamegeek.com/boardgame/382607",
+        "thumbnail": "https://cf.geekdo-images.com/mloQj-P713JNuB2po6lQ4Q__small/img/Hu_2PNHPpAo4Jw25nA5Y3EttpCU=/fit-in/200x150/filters:strip_icc()/pic7835981.jpg",
+        "image": "https://cf.geekdo-images.com/mloQj-P713JNuB2po6lQ4Q__original/img/7Jzg1Mg0Bc0Tqv020duDV517xL4=/0x0/filters:format(jpeg)/pic7835981.jpg",
+        "description": "\"It is said that in ancient times, the v&ouml;lvas of the different clans met to attract the good graces of odin and thor.\nThey practised galdr, runic magic. \nTo transmit their prayers, they sought to approach Vedrf&ouml;lnir, the great eagle at the top of Yggdrasil. To flatter him, it would be enough to pluck 12 stars from the sky. \nThe path to the great eagle is a perilous one, and the Norns will have to help you tame Sleipnir, outwit Loki, trick Nidhogg and coax Ratatosk... \".\n\nThe game consi",
+        "categories": [
+          "Card Game",
+          "Mythology"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "carcassonne (moutons & collines)",
+      "selectedBggId": 822,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 822,
+          "name": "Carcassonne",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 455826,
+          "name": "Carcassonne: Jousts & Crests",
+          "type": "boardgame",
+          "score": 59
+        },
+        {
+          "id": 455826,
+          "name": "Carcassonne: Jousts & Crests",
+          "type": "boardgameexpansion",
+          "score": 59
+        },
+        {
+          "id": 291518,
+          "name": "Carcassonne Maps: Chips",
+          "type": "boardgame",
+          "score": 56
+        },
+        {
+          "id": 388042,
+          "name": "Carcassonne Maps: Nordics",
+          "type": "boardgame",
+          "score": 56
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 822,
+        "name": "Carcassonne",
+        "type": "boardgame",
+        "yearPublished": 2000,
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "minPlaytime": 30,
+        "maxPlaytime": 45,
+        "minAge": 7,
+        "bggRating": 7.41627,
+        "bggWeight": 1.8849,
+        "communityBestPlayers": 2,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/822",
+        "thumbnail": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__small/img/oEEslN-EGqh82sNI6Aj4_MFXYg0=/fit-in/200x150/filters:strip_icc()/pic8621446.jpg",
+        "image": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__original/img/bP18m_PYjyFOv1IBGgMOteQUneA=/0x0/filters:format(jpeg)/pic8621446.jpg",
+        "description": "Carcassonne is a tile placement game in which the players draw and place a tile with a piece of southern French landscape represented on it. The tile might feature a city, a road, a cloister, grassland or some combination thereof, and it must be placed adjacent to tiles that have already been played, in such a way that cities are connected to cities, roads to roads, et cetera. Having placed a tile, the player can then decide to place one of their meeples in one of the areas on it: in the city as",
+        "categories": [
+          "Medieval",
+          "Territory Building"
+        ],
+        "alternateNames": [
+          "Carcassonne da viaggio",
+          "Carcassonne de voyage",
+          "Carcassonne Jubilee Edition",
+          "Carcassonne: Plus",
+          "Carcassonne: Reiseditie",
+          "Domínio de Carcassonne",
+          "Reise-Carcassonne",
+          "Travel Carcassonne",
+          "Τα Κάστρα του Μυστρά",
+          "Каркасон",
+          "Каркасон",
+          "Каркассон",
+          "Средневековье",
+          "קרקסון",
+          "كاركاسون",
+          "คาร์คาซอนน์",
+          "カルカソンヌ",
+          "カルカソンヌ21",
+          "カルカソンヌＪ",
+          "卡卡頌",
+          "卡卡颂",
+          "카르카손"
+        ]
+      }
+    },
+    {
+      "csvName": "tuamotu",
+      "selectedBggId": 405481,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 405481,
+          "name": "Tuamotu",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 405481,
+        "name": "Tuamotu",
+        "type": "boardgame",
+        "yearPublished": 2024,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 10,
+        "maxPlaytime": 15,
+        "minAge": 8,
+        "bggRating": 6.33333,
+        "bggWeight": 2,
+        "bggLink": "https://boardgamegeek.com/boardgame/405481",
+        "thumbnail": "https://cf.geekdo-images.com/QYs3C2Zu6BCaqLUL8hXU6w__small/img/QfzPY16FOiq5ydFQtxMVrmf2M6A=/fit-in/200x150/filters:strip_icc()/pic8431070.jpg",
+        "image": "https://cf.geekdo-images.com/QYs3C2Zu6BCaqLUL8hXU6w__original/img/Pvq_HNTyrje5uqGLPlzp61BzjYQ=/0x0/filters:format(jpeg)/pic8431070.jpg",
+        "description": "Only the light provided by the Tuputupuas Messengers can repel the darkness that is trying to harm your Tikis.\n\nIn Tuamotu, you summon the various Tuputupuas Messengers embodied by Rays, Sharks, Turtles and Geckos to transmit the protective light to you.\n\nWill you have enough light before darkness falls on you?\n\nTo win, you'll need to collect 25 shells and avoid holding cards with high Tiki values.\n\nTo do this, players will have to match pairs of cards to make the Tuputupuas messengers appear.\n\n",
+        "categories": [
+          "Card Game"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "perudo",
+      "selectedBggId": 45,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 45,
+          "name": "Perudo",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 45,
+        "name": "Perudo",
+        "type": "boardgame",
+        "yearPublished": 1800,
+        "minPlayers": 2,
+        "maxPlayers": 10,
+        "minPlaytime": 15,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 6.9283,
+        "bggWeight": 1.2473,
+        "communityBestPlayers": 6,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/45",
+        "thumbnail": "https://cf.geekdo-images.com/wX4cTWNjTG7XiGHGgSpiiw__small/img/vU6kaL3f06BaVfmwUV91trrvDng=/fit-in/200x150/filters:strip_icc()/pic8630033.png",
+        "image": "https://cf.geekdo-images.com/wX4cTWNjTG7XiGHGgSpiiw__original/img/86bXDwl4gmMb_GehNQ-9y6O9G0E=/0x0/filters:format(png)/pic8630033.png",
+        "description": "Liar's Dice, a.k.a. Bluff, Perudo or Dudo, is a South American dice game in which each player is given five dice and cup to roll and hide them with. Players make successively higher declarations regarding the results of all the dice remaining in the game, e.g. \"there are ten sixes\". However, someone can always contest the bid. When that happens, all the dice are revealed and either the bidder or the caller loses dice, depending on who was correct. The last player with dice is the winner.\n\nAs a p",
+        "categories": [
+          "Bluffing",
+          "Children&#039;s Game",
+          "Dice"
+        ],
+        "alternateNames": [
+          "Animal House Liar's Dice",
+          "Blef",
+          "Blöff",
+          "Bløff",
+          "Bluff",
+          "Bluff Dice Game",
+          "Cachito",
+          "Cachito",
+          "Cacho",
+          "Call my Bluff",
+          "Dadinho",
+          "Dice Dice Baby",
+          "Doubter's Dice",
+          "Dubidado",
+          "Dubito",
+          "Dudo",
+          "Dudo: The Origin of Liar's Dice",
+          "Dudo!",
+          "Duff Dice: The Lyin' Dice Game",
+          "Futurama: Bender's Game of Bluff",
+          "Hide Da Dice",
+          "Liar's Dice",
+          "Liar's Dice / Dés Voilés",
+          "Liars Dice",
+          "Luckigames",
+          "Luring",
+          "Palko",
+          "Perudo Pocket Sized",
+          "Perudo: Beach",
+          "Perudo: Jumbo pack",
+          "Perudo: Liars Dice of the Andes",
+          "Pico",
+          "Pirates Dice: Pirates of the Caribbean – At World's End",
+          "Pirates Dice: Pirates of the Caribbean – Dead Man's Chest",
+          "Roodo",
+          "Snyd",
+          "Tænkeboks",
+          "Tarka",
+          "Wayne's World NOT Dice Game",
+          "Перудо: Характерник",
+          "ブラフ",
+          "蠱惑骰 Bluff",
+          "페루도"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "super pas vite",
+      "selectedBggId": 352215,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 352215,
+          "name": "Super Pas Vite!",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 352215,
+        "name": "Super Pas Vite!",
+        "type": "boardgame",
+        "yearPublished": 2021,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 20,
+        "maxPlaytime": 30,
+        "minAge": 6,
+        "bggRating": 7.5,
+        "bggWeight": 1,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/352215",
+        "description": "I arrive, I run, I fly!\n\nNo, you don't arrive, you don't run, you crawl. But it's perfect for this very original snail race where the slowest one wins. An ode to slowness which is good in our society where everything has become urgent. The color of your snail is secret.\n\nOn your turn, roll the 4 colored dice. Each dice allows you to move a snail if it is of the indicated color or if it is on a flower of the color of the dice.\n\nTry to move the other players' snails without revealing yourself too ",
+        "categories": [
+          "Children&#039;s Game"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "7 wonders duel",
+      "selectedBggId": 173346,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 173346,
+          "name": "7 Wonders Duel",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 309116,
+          "name": "7 Wonders Duel: Agora",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 348601,
+          "name": "7 Wonders Duel: Agora – Tu Quoque Fili Promo Card",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 202976,
+          "name": "7 Wonders Duel: Pantheon",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 310215,
+          "name": "7 Wonders Duel: Solo",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 173346,
+        "name": "7 Wonders Duel",
+        "type": "boardgame",
+        "yearPublished": 2015,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 10,
+        "bggRating": 8.07692,
+        "bggWeight": 2.2272,
+        "communityBestPlayers": 2,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgame/173346",
+        "thumbnail": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__small/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg",
+        "image": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__original/img/Ju836WNSaW7Mab9Vjq2TJ_FqhWQ=/0x0/filters:format(jpeg)/pic2576399.jpg",
+        "description": "In many ways 7 Wonders Duel resembles its parent game 7 Wonders. Over three ages, players acquire cards that provide resources or advance their military or scientific development in order to develop a civilization and complete wonders. What's different about 7 Wonders Duel is that, as the title suggests, the game is solely for two players.\n\nPlayers do not draft cards simultaneously from decks of cards, but from a display of face-down and face-up cards arranged at the start of a round. A player c",
+        "categories": [
+          "Ancient",
+          "Card Game",
+          "City Building"
+        ],
+        "alternateNames": [
+          "7 Csoda Párbaj",
+          "7 Cudów Świata: Pojedynek",
+          "7 Divů světa: Duel",
+          "7 Чудес: Дуэль",
+          "7 สิ่งมหัศจรรย์ ดวล",
+          "7 원더스 대결",
+          "لعبة مبارزة العجائب السبعة",
+          "七大奇蹟 對決",
+          "七大奇迹:对决",
+          "七大奇迹：对决",
+          "七大对决",
+          "世界の七不思議:デュエル"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "7 wonders duel (pantheon)",
+      "selectedBggId": 202976,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 173346,
+          "name": "7 Wonders Duel",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 202976,
+          "name": "7 Wonders Duel: Pantheon",
+          "type": "boardgame",
+          "score": 88
+        },
+        {
+          "id": 202976,
+          "name": "7 Wonders Duel: Pantheon",
+          "type": "boardgameexpansion",
+          "score": 88
+        },
+        {
+          "id": 309116,
+          "name": "7 Wonders Duel: Agora",
+          "type": "boardgame",
+          "score": 64
+        },
+        {
+          "id": 309116,
+          "name": "7 Wonders Duel: Agora",
+          "type": "boardgameexpansion",
+          "score": 64
+        }
+      ],
+      "details": {
+        "id": 202976,
+        "name": "7 Wonders Duel: Pantheon",
+        "type": "boardgameexpansion",
+        "yearPublished": 2016,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 10,
+        "bggRating": 7.99434,
+        "bggWeight": 2.31,
+        "communityBestPlayers": 2,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgameexpansion/202976",
+        "thumbnail": "https://cf.geekdo-images.com/iQRqtxgRuh-4J5vYLdhsMg__small/img/7KX-iJ5e3ZW0LnbEd9OQHRSpHG8=/fit-in/200x150/filters:strip_icc()/pic3143885.png",
+        "image": "https://cf.geekdo-images.com/iQRqtxgRuh-4J5vYLdhsMg__original/img/rwOQ9RK6_C9gIy-g_dgkdF6Mb7Y=/0x0/filters:format(png)/pic3143885.png",
+        "description": "",
+        "categories": [
+          "Card Game",
+          "City Building",
+          "Ancient"
+        ],
+        "alternateNames": []
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "icecool",
+      "selectedBggId": 177524,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 177524,
+          "name": "ICECOOL",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 400371,
+          "name": "ICECOOL Wizards",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 244513,
+          "name": "ICECOOL2",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 234515,
+          "name": "ICECOOL: 0.5 Point Cards",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 290502,
+          "name": "ICECOOL: Artifacts",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 177524,
+        "name": "ICECOOL",
+        "type": "boardgame",
+        "yearPublished": 2016,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 6,
+        "bggRating": 6.78204,
+        "bggWeight": 1.057,
+        "communityBestPlayers": 4,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/177524",
+        "thumbnail": "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__small/img/7ZeCdaJWigksF5wUHTGGXmmfP6Y=/fit-in/200x150/filters:strip_icc()/pic3320017.png",
+        "image": "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__original/img/rIyNSXqNgGs4Yqt0xL5CdTp9grg=/0x0/filters:format(png)/pic3320017.png",
+        "description": "The lunch break is almost there and all of the young penguins would finally get the fish they&rsquo;ve been craving. However, some rascals think they are quick enough to snatch some of the fish before the lunch break starts, but they have forgotten one thing &ndash; the Hall Monitor! Each school day one of the penguins is designated to watch over the school, and this is his moment to shine &ndash; for each rascal penguin he catches he would get additional fish!\n\nA fun run takes place &ndash; the",
+        "categories": [
+          "Action / Dexterity",
+          "Animals",
+          "Children&#039;s Game"
+        ],
+        "alternateNames": [
+          "Escuela de Pingüinos",
+          "Ice Cool: Cursa Pinguinilor",
+          "IceCool: ledová škola",
+          "Παγοδρομίες",
+          "Айс-класс",
+          "Викрутайс",
+          "アイスクール 日本語版",
+          "冰酷企鵝",
+          "아이스 쿨"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "esquissé?",
+      "selectedBggId": 46213,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 46213,
+          "name": "Esquissé?",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 216798,
+          "name": "Esquissé? Version 6 Joueurs",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 460891,
+          "name": "Esquissé ?: Édition Adultes",
+          "type": "boardgame",
+          "score": 33
+        }
+      ],
+      "details": {
+        "id": 46213,
+        "name": "Esquissé?",
+        "type": "boardgame",
+        "yearPublished": 2009,
+        "minPlayers": 4,
+        "maxPlayers": 8,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 12,
+        "bggRating": 7.37696,
+        "bggWeight": 1.0697,
+        "communityBestPlayers": 8,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/46213",
+        "thumbnail": "https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__small/img/CcgassIExgVh2dwANVY_Srp6be0=/fit-in/200x150/filters:strip_icc()/pic8855812.jpg",
+        "image": "https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__original/img/SAMxnv21q2rwvViEOu2nti4H0Is=/0x0/filters:format(jpeg)/pic8855812.jpg",
+        "description": "The award-winning party game Telestrations will get your family and friends laughing as they draw what they see, then guess what they saw for hours of hilarious miscommunication. All players simultaneously sketch, pass, and guess while revealing laugh-out-loud and unpredictable outcomes!",
+        "categories": [
+          "Humor",
+          "Party Game",
+          "Real-time"
+        ],
+        "alternateNames": [
+          "Esquissé?",
+          "Huhupuheita",
+          "Huhupuheita 2.0",
+          "Interferencias",
+          "Passa o Desenho",
+          "Podaj dalej!",
+          "Pošli to dál",
+          "Ryktet går",
+          "Ryktet går 2.0",
+          "Sig det videre",
+          "Stille Post Extrem",
+          "TeleSketch",
+          "Telestrations El Original",
+          "Wat schets je me nou?!",
+          "Σκιτσομπερδέματα",
+          "Испорченный телефон",
+          "วาด วาด ทาย ทาย",
+          "テレストレーション",
+          "傳情畫意",
+          "텔레스트레이션"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "IQ digits",
+      "selectedBggId": 10122,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 10122,
+          "name": "IQ",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 29786,
+          "name": "IQ Disc",
+          "type": "boardgame",
+          "score": 56
+        },
+        {
+          "id": 71567,
+          "name": "IQ Test",
+          "type": "boardgame",
+          "score": 44
+        },
+        {
+          "id": 174224,
+          "name": "IQ Bingo Tiere",
+          "type": "boardgame",
+          "score": 43
+        },
+        {
+          "id": 30153,
+          "name": "IQ på boks",
+          "type": "boardgame",
+          "score": 40
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 10122,
+        "name": "IQ",
+        "type": "boardgame",
+        "yearPublished": 1974,
+        "minPlayers": 2,
+        "maxPlayers": 8,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "bggRating": 3.86667,
+        "bggLink": "https://boardgamegeek.com/boardgame/10122",
+        "thumbnail": "https://cf.geekdo-images.com/le_NPTHb7rGvJ_s2iSL8lA__small/img/x1mn-ChtSL4TU5O89RWEz0k4THs=/fit-in/200x150/filters:strip_icc()/pic41982.jpg",
+        "image": "https://cf.geekdo-images.com/le_NPTHb7rGvJ_s2iSL8lA__original/img/GnXhQGGuDOaGw46ZhDolmQbm3No=/0x0/filters:format(jpeg)/pic41982.jpg",
+        "description": "Climb the intelligence ladder and compare your word IQ with your friends.  Each of you begins rated equally ignorant, and there's plenty of room for improvement. You'll be competing to progress through the ratings of ignorant, average and smart attempting to become the game's Genius. Players climb the intelligence ladder by correctly answering Quiz Cards and comparing their answers to the game's infallible answer man, Quizzer. It tells you if you're wrong and how many spaces to move on the board",
+        "categories": [
+          "Card Game",
+          "Memory",
+          "Trivia"
+        ]
+      }
+    },
+    {
+      "csvName": "diamond quest",
+      "selectedBggId": 133664,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 133664,
+          "name": "Diamond",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 18962,
+          "name": "Diamond Chess",
+          "type": "boardgame",
+          "score": 77
+        },
+        {
+          "id": 342665,
+          "name": "Diamond Heist",
+          "type": "boardgame",
+          "score": 77
+        },
+        {
+          "id": 447304,
+          "name": "Diamond Heist",
+          "type": "boardgame",
+          "score": 77
+        },
+        {
+          "id": 5130,
+          "name": "Diamond Hunt",
+          "type": "boardgame",
+          "score": 77
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 133664,
+        "name": "Diamond",
+        "type": "boardgame",
+        "yearPublished": 2012,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 7.16667,
+        "bggLink": "https://boardgamegeek.com/boardgame/133664",
+        "thumbnail": "https://cf.geekdo-images.com/Ab3_eKV7NTDOLIEvk0nR1g__small/img/vvs0vm_IV2cQ71F3jAciiyBfb0M=/fit-in/200x150/filters:strip_icc()/pic1644130.jpg",
+        "image": "https://cf.geekdo-images.com/Ab3_eKV7NTDOLIEvk0nR1g__original/img/aPaZlHTmLAy6hVQcZ8gDEa4VMg0=/0x0/filters:format(jpeg)/pic1644130.jpg",
+        "description": "Another connection game by Larry Back uses a unique, diamond-shaped board made of interlocking squares and triangles. \nEquipment: 12 black and 12 white pieces for two players, with a neutral set of 15 red pieces. These will be played onto the points of the squares and triangles, and there is a total of 62 playable points on the board. Goal: to occupy the the four corners of any square with your pieces.\n\nGame play: during the first phase, players take turns placing their pieces onto any point of ",
+        "categories": [
+          "Abstract Strategy"
+        ]
+      }
+    },
+    {
+      "csvName": "skyjo action",
+      "selectedBggId": 301242,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 301242,
+          "name": "Skyjo Action",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 301242,
+        "name": "Skyjo Action",
+        "type": "boardgame",
+        "yearPublished": 2019,
+        "minPlayers": 2,
+        "maxPlayers": 8,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 6.2063,
+        "bggWeight": 1.1667,
+        "communityBestPlayers": 4,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/301242",
+        "thumbnail": "https://cf.geekdo-images.com/-Aw4bfAV98SHuadTDR4soQ__small/img/43MBOMTfQckHOGc6j_EQghfmxOk=/fit-in/200x150/filters:strip_icc()/pic5224945.jpg",
+        "image": "https://cf.geekdo-images.com/-Aw4bfAV98SHuadTDR4soQ__original/img/66HwpGWQHFFJ5--jdTlAXHqAaA4=/0x0/filters:format(jpeg)/pic5224945.jpg",
+        "description": "New version of Skyjo which adds Action Cards and Joker Cards.\n\nIn Skyjo, each player 12 cards in a 3x4 pattern, two of them face up, all others hidden. On your turn you can take the top card from the discard or draw pile. You can exchange one card (hidden or open) from your display with it or discard the drawn card to turn one card face up. The round ends when one player has only open cards. All cards will be revealed, and the points added for each player (Cards are ranked from -2 to 12). The ga",
+        "categories": [
+          "Card Game"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "dixit (odyssey)",
+      "selectedBggId": 39856,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 39856,
+          "name": "Dixit",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 92828,
+          "name": "Dixit: Odyssey",
+          "type": "boardgame",
+          "score": 80
+        },
+        {
+          "id": 121288,
+          "name": "Dixit: Journey",
+          "type": "boardgame",
+          "score": 53
+        },
+        {
+          "id": 138547,
+          "name": "Dixit: Odyssey (expansion)",
+          "type": "boardgame",
+          "score": 50
+        },
+        {
+          "id": 138547,
+          "name": "Dixit: Odyssey (expansion)",
+          "type": "boardgameexpansion",
+          "score": 50
+        }
+      ],
+      "details": {
+        "id": 39856,
+        "name": "Dixit",
+        "type": "boardgame",
+        "yearPublished": 2008,
+        "minPlayers": 3,
+        "maxPlayers": 6,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 7.18049,
+        "bggWeight": 1.1921,
+        "communityBestPlayers": 6,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/39856",
+        "thumbnail": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__small/img/QVwPXskFikQwBQlrdLJBAiRGgdg=/fit-in/200x150/filters:strip_icc()/pic6738336.jpg",
+        "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__original/img/jt3kFCHJ3HJ2079dMLwipFZqdQg=/0x0/filters:format(jpeg)/pic6738336.jpg",
+        "description": "Each turn in Dixit, one player is the storyteller who chooses one of the six cards in their hand, then expresses an idea, with sounds or words, that is reflected on that card's image, and places the card face down on the playing surface. Each other player then selects the card that best matches that expression, and passes the selected card to the storyteller, face down.\n\nThe storyteller shuffles all the cards together, then turns them over to reveal them. Each player other than the storyteller t",
+        "categories": [
+          "Card Game",
+          "Humor",
+          "Party Game"
+        ],
+        "alternateNames": [
+          "Dixit ديكست",
+          "Диксит",
+          "Діксіт",
+          "ディクシット",
+          "妙不可言",
+          "妙語說書人",
+          "画物语",
+          "言不達意",
+          "隻字片語",
+          "隻言片語",
+          "딕싯"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "équilibrix",
+      "selectedBggId": 324664,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 324664,
+          "name": "EQUILIBRIX Combact",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 264434,
+          "name": "Equilibrix Connect",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 324669,
+          "name": "EQUILIBRIX Project",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 324664,
+        "name": "EQUILIBRIX Combact",
+        "type": "boardgame",
+        "yearPublished": 2019,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 15,
+        "maxPlaytime": 25,
+        "minAge": 9,
+        "bggRating": 6.33333,
+        "bggLink": "https://boardgamegeek.com/boardgame/324664",
+        "thumbnail": "https://cf.geekdo-images.com/87iefFBFiPLGhCMGKV8wTA__small/img/oBkBloZ6V8JBpyTUOvYmOe1SZ7o=/fit-in/200x150/filters:strip_icc()/pic6090155.jpg",
+        "image": "https://cf.geekdo-images.com/87iefFBFiPLGhCMGKV8wTA__original/img/vOTZkDjwNKcdXqJroFcXi80mhj4=/0x0/filters:format(jpeg)/pic6090155.jpg",
+        "description": "This package of black-and-white puzzle pieces brings completely new dimension into EQULIBRIX series. Every puzzle piece is unique in terms of its shape and ability to create the connections with other puzzle pieces. This time you will experience a very close duel on the Connect game board (the box does not contain the game board). How the duel will look like? It depends largely on the game option you choose.",
+        "categories": [
+          "Abstract Strategy"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "stella (dixit universe)",
+      "selectedBggId": 263214,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 263214,
+          "name": "Stella",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 310469,
+          "name": "Stella",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 329845,
+          "name": "Stella: Dixit Universe",
+          "type": "boardgame",
+          "score": 87
+        },
+        {
+          "id": 408595,
+          "name": "Stella Digger",
+          "type": "boardgame",
+          "score": 48
+        },
+        {
+          "id": 424567,
+          "name": "Stella Quest",
+          "type": "boardgame",
+          "score": 43
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 263214,
+        "name": "Stella",
+        "type": "boardgame",
+        "yearPublished": 2018,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 5,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 6.79608,
+        "bggLink": "https://boardgamegeek.com/boardgame/263214",
+        "thumbnail": "https://cf.geekdo-images.com/gBRcFKn1Vfv0Q6kYQrSyFA__small/img/6xEX7qkKiizGVi19H-y36sB1Dto=/fit-in/200x150/filters:strip_icc()/pic4369248.jpg",
+        "image": "https://cf.geekdo-images.com/gBRcFKn1Vfv0Q6kYQrSyFA__original/img/yLt3gKQoM3PTqTYCwWp_VoqKvDw=/0x0/filters:format(jpeg)/pic4369248.jpg",
+        "description": "Greece circa 800 BCE\n\nAs war and famine threatened the Greek city-states, people despaired, and there seemed to be no way out. They begged the stargazers to call on the heavenly forces of mist, shadow, fog, and darkness to change the future. Which force will deliver them from crisis? Luckily the light always shines.\n\nPush rows of tiles so that your color tiles for a continuous path from one side of the board to the other. Be on your guard as the tiles are shifted at every turn. Will you conceal ",
+        "categories": [
+          "Abstract Strategy"
+        ]
+      }
+    },
+    {
+      "csvName": "bluff party",
+      "selectedBggId": 27155,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 27155,
+          "name": "Bluff Party",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 40808,
+          "name": "Bluff Party 2",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 27155,
+        "name": "Bluff Party",
+        "type": "boardgame",
+        "yearPublished": 2006,
+        "minPlayers": 4,
+        "maxPlayers": 50,
+        "minPlaytime": 120,
+        "maxPlaytime": 120,
+        "minAge": 12,
+        "bggRating": 5.48155,
+        "bggWeight": 1.0323,
+        "communityBestPlayers": 6,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgame/27155",
+        "thumbnail": "https://cf.geekdo-images.com/ObcfqiVOszAhYeP9GBqUmA__small/img/_R63at_yycbpZL_onCIr-IzU-xY=/fit-in/200x150/filters:strip_icc()/pic5837925.jpg",
+        "image": "https://cf.geekdo-images.com/ObcfqiVOszAhYeP9GBqUmA__original/img/Kuw_v3F4O0ykSP8pFvVLP7Oi1MY=/0x0/filters:format(jpeg)/pic5837925.jpg",
+        "description": "Bluff party (aka, I Betcha...) can be played during almost any other social activity, including another game.\n\nAt the start of the game, each player receives a card that features three challenges, e.g., \"Speak three sentences in a foreign language\" or \"Suck your thumb for 30 seconds\". Players agree on an ending time for the game, perhaps 1-2 hours, then each player must perform or act out his three challenges during that time in a subtle manner, but with witnesses. If no one says anything for 30",
+        "categories": [
+          "Bluffing",
+          "Card Game",
+          "Party Game"
+        ],
+        "alternateNames": [
+          "Bluff Party",
+          "Daję Głowę",
+          "Erwischt!",
+          "I Betcha...",
+          "Μπλόφα Πάρτυ",
+          "Блеф-пати"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "les bâtisseurs (moyen-âge)",
+      "selectedBggId": 144553,
+      "score": 88,
+      "candidates": [
+        {
+          "id": 144553,
+          "name": "Les Bâtisseurs: Moyen-Âge",
+          "type": "boardgame",
+          "score": 88
+        },
+        {
+          "id": 206928,
+          "name": "Les Bâtisseurs du Colisée",
+          "type": "boardgame",
+          "score": 62
+        },
+        {
+          "id": 161226,
+          "name": "Les Bâtisseurs: Antiquité",
+          "type": "boardgame",
+          "score": 58
+        },
+        {
+          "id": 217838,
+          "name": "Les bâtisseurs de la tour de Babylon",
+          "type": "boardgame",
+          "score": 50
+        },
+        {
+          "id": 166373,
+          "name": "Les Bâtisseurs: Moyen-Âge – L&#039;officine Tric Trac",
+          "type": "boardgame",
+          "score": 43
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 144553,
+        "name": "Les Bâtisseurs: Moyen-Âge",
+        "type": "boardgame",
+        "yearPublished": 2013,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 10,
+        "bggRating": 6.46979,
+        "bggWeight": 1.8214,
+        "communityBestPlayers": 2,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgame/144553",
+        "thumbnail": "https://cf.geekdo-images.com/Dm4DlsDMxj7pEWypXeQAXQ__small/img/dJCYEHG06GbTCdkuGTw6npGI0xk=/fit-in/200x150/filters:strip_icc()/pic1987602.jpg",
+        "image": "https://cf.geekdo-images.com/Dm4DlsDMxj7pEWypXeQAXQ__original/img/khA8wBNSQnGggbqOPrqKXr2BNjA=/0x0/filters:format(jpeg)/pic1987602.jpg",
+        "description": "In The Builders: Middle Ages, the cards represent buildings or workers. Players score points (and gain money) by completing the construction of buildings, while placing a worker on a construction site costs money. Each building has four characteristics (carpentry, masonry, architecture, tilery) rated between 0 and 5, and the workers have the same characteristics valued in the same range. To complete a construction, the player must add enough workers to cover the four characteristics of the build",
+        "categories": [
+          "Card Game",
+          "City Building",
+          "Medieval"
+        ],
+        "alternateNames": [
+          "Les Bâtisseurs: Moyen-Âge",
+          "Die Baumeister: Mittelalter",
+          "Budowniczowie: Średniowiecze",
+          "Los Constructores: Edad Media",
+          "I Costruttori del Medioevo",
+          "Építőmesterek: Középkor",
+          "中世紀建築師",
+          "빌더스"
+        ]
+      }
+    },
+    {
+      "csvName": "code couleur",
+      "selectedBggId": 287655,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 287655,
+          "name": "Code",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 27613,
+          "name": "Code Cracker",
+          "type": "boardgame",
+          "score": 58
+        },
+        {
+          "id": 42063,
+          "name": "Code Master",
+          "type": "boardgame",
+          "score": 58
+        },
+        {
+          "id": 29057,
+          "name": "Code Monkey",
+          "type": "boardgame",
+          "score": 58
+        },
+        {
+          "id": 33984,
+          "name": "Code Omega",
+          "type": "boardgame",
+          "score": 58
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 287655,
+        "name": "Code Couleur",
+        "type": "boardgame",
+        "yearPublished": 2019,
+        "minPlayers": 2,
+        "maxPlayers": 8,
+        "minPlaytime": 5,
+        "maxPlaytime": 15,
+        "minAge": 8,
+        "bggRating": 5.19474,
+        "bggWeight": 1,
+        "communityBestPlayers": 4,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/287655",
+        "thumbnail": "https://cf.geekdo-images.com/Id0oqQ8eTK4ilrNB51UN-A__small/img/-fnR2W99CmeSK1mshgiKLRVx-CY=/fit-in/200x150/filters:strip_icc()/pic4953267.jpg",
+        "image": "https://cf.geekdo-images.com/Id0oqQ8eTK4ilrNB51UN-A__original/img/JWC4PO2PVtbaFGSWpC3gm0ch4PQ=/0x0/filters:format(jpeg)/pic4953267.jpg",
+        "description": "Have you ever needed to crack a code, say to a new phone you bought second hand? If so (or even if you&rsquo;ve just seen all that goes into it from movies like Mission Impossible and The Da Vinci Code), then you know how incredibly important&mdash;and difficult&mdash;it can be.\n\nWelcome to Cracked, the fast and furious strategic card game for 2-8 players. In Cracked, players race to be the first to end the game by having four cards in their hand that matches their unique code card. Sound simple",
+        "categories": [
+          "Card Game"
+        ],
+        "alternateNames": [
+          "Code"
+        ]
+      }
+    },
+    {
+      "csvName": "machi koro 2",
+      "selectedBggId": 340364,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 340364,
+          "name": "Machi Koro 2",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 351437,
+          "name": "Machi Koro 2: Landmarks Promo Pack",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 351437,
+          "name": "Machi Koro 2: Landmarks Promo Pack",
+          "type": "boardgameexpansion",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 340364,
+        "name": "Machi Koro 2",
+        "type": "boardgame",
+        "yearPublished": 2021,
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "minPlaytime": 45,
+        "maxPlaytime": 45,
+        "minAge": 10,
+        "bggRating": 7.0907,
+        "bggWeight": 1.5581,
+        "communityBestPlayers": 4,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/340364",
+        "thumbnail": "https://cf.geekdo-images.com/NFIzv8Yr3_u7nc_PBoYntQ__small/img/gWWFrJqD31FKROEFclenp_xh8HA=/fit-in/200x150/filters:strip_icc()/pic6221820.png",
+        "image": "https://cf.geekdo-images.com/NFIzv8Yr3_u7nc_PBoYntQ__original/img/8-1WWFjl_hsrWX7O9Qotc4ncWPA=/0x0/filters:format(png)/pic6221820.png",
+        "description": "Your favorite lovably quirky city is back at it again! Welcome to Machi Koro 2, where new adventures await, but the bakeries and business centers still abound.\n\nIn Machi Koro 2, veteran players will notice some big changes. Under the new zoning laws, players receive a limited budget to choose their own starting establishments. The available cards are pulled from three decks and arranged for all to see. It's a race to grab the coolest new establishments and landmarks in the land!\n\nThe cards in th",
+        "categories": [
+          "City Building",
+          "Dice"
+        ],
+        "alternateNames": [
+          "Machi Koro: Die neue Stadt",
+          "Мачи Коро 2",
+          "Наші міста: Мачі Коро 2",
+          "街コロ通",
+          "骰子小镇2",
+          "미니빌2"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "heat",
+      "selectedBggId": 157815,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 157815,
+          "name": "Heat",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 142458,
+          "name": "Ablaze!: Feel the Heat!",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 160099,
+          "name": "Alfred the Great: The Great Heathen Army 871AD",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 160724,
+          "name": "Alfred the Great: The Great Heathen Army 871AD – 3D Wargame",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 317289,
+          "name": "Baseball Wars: Hangin&#039; Curves and Heaters edition",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 157815,
+        "name": "Heat",
+        "type": "boardgame",
+        "yearPublished": 2015,
+        "minPlayers": 3,
+        "maxPlayers": 5,
+        "minPlaytime": 20,
+        "maxPlaytime": 30,
+        "minAge": 13,
+        "bggRating": 6.21108,
+        "bggWeight": 1.6471,
+        "communityBestPlayers": 4,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/157815",
+        "thumbnail": "https://cf.geekdo-images.com/CpnZlx8K7GG_vltc9TaG6A__small/img/oJUkvtF7xeDQqGbcpRsZahx5Bmo=/fit-in/200x150/filters:strip_icc()/pic2027808.png",
+        "image": "https://cf.geekdo-images.com/CpnZlx8K7GG_vltc9TaG6A__original/img/PdudkuUMSWK5btNGSvPFyikYXLc=/0x0/filters:format(png)/pic2027808.png",
+        "description": "Recruit members of your criminal mob, then pull off jobs in the city for cash. Some crimes attract more attention from the police than others, and bringing down the Heat is bad for everybody.\n\nHeat is a micro-ish card game that plays out over three rounds. Every round, there's a drafting phase where your hand evolves by passing cards to your neighbor and drawing new cards. Then you select which cards from the hand you draft to play, attempting to out-guess the other players while scoring the hig",
+        "categories": [
+          "Card Game",
+          "Mafia",
+          "Print & Play"
+        ]
+      }
+    },
+    {
+      "csvName": "heat (tunnel vision)",
+      "selectedBggId": 436904,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 157815,
+          "name": "Heat",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 436904,
+          "name": "Heat: Tunnel Vision",
+          "type": "boardgame",
+          "score": 85
+        },
+        {
+          "id": 436904,
+          "name": "Heat: Tunnel Vision",
+          "type": "boardgameexpansion",
+          "score": 85
+        },
+        {
+          "id": 187331,
+          "name": "Heat Up Live!",
+          "type": "boardgame",
+          "score": 40
+        },
+        {
+          "id": 432,
+          "name": "Beat the Heat",
+          "type": "boardgame",
+          "score": 35
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 436904,
+        "name": "Heat: Tunnel Vision",
+        "type": "boardgameexpansion",
+        "yearPublished": 2023,
+        "minPlayers": 1,
+        "maxPlayers": 7,
+        "minPlaytime": 30,
+        "maxPlaytime": 60,
+        "minAge": 10,
+        "bggRating": 8.20362,
+        "bggWeight": 2.1538,
+        "communityBestPlayers": 5,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgameexpansion/436904",
+        "thumbnail": "https://cf.geekdo-images.com/ez01nzXEqZgLn0lx714eqA__small/img/sw29GPWLzh7y3edW8CPqw258wFo=/fit-in/200x150/filters:strip_icc()/pic8647210.jpg",
+        "image": "https://cf.geekdo-images.com/ez01nzXEqZgLn0lx714eqA__original/img/T5g0_z266YqhJzy2RKn61G4cqqU=/0x0/filters:format(jpeg)/pic8647210.jpg",
+        "description": "",
+        "categories": [
+          "Racing"
+        ],
+        "alternateNames": []
+      }
+    },
+    {
+      "csvName": "jungle speed (lapins crétins)",
+      "selectedBggId": 8098,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 8098,
+          "name": "Jungle Speed",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 454396,
+          "name": "Jungle Speed Giant",
+          "type": "boardgame",
+          "score": 55
+        },
+        {
+          "id": 388327,
+          "name": "Jungle Speed Collector",
+          "type": "boardgame",
+          "score": 52
+        },
+        {
+          "id": 448776,
+          "name": "Jungle Speed Donkey Kong",
+          "type": "boardgame",
+          "score": 52
+        },
+        {
+          "id": 274651,
+          "name": "Jungle Speed Kids",
+          "type": "boardgame",
+          "score": 52
+        }
+      ],
+      "details": {
+        "id": 8098,
+        "name": "Jungle Speed",
+        "type": "boardgame",
+        "yearPublished": 1997,
+        "minPlayers": 2,
+        "maxPlayers": 10,
+        "minPlaytime": 10,
+        "maxPlaytime": 10,
+        "minAge": 7,
+        "bggRating": 6.44865,
+        "bggWeight": 1.1285,
+        "communityBestPlayers": 5,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/8098",
+        "thumbnail": "https://cf.geekdo-images.com/pb553nZgH3akaF24MzT7nA__small/img/Clb-hjbKmSJcl6U6UJMqAz0Kxy0=/fit-in/200x150/filters:strip_icc()/pic4659199.jpg",
+        "image": "https://cf.geekdo-images.com/pb553nZgH3akaF24MzT7nA__original/img/YVxlSoQ5q-8w4FMn8hM6Gz4nCNg=/0x0/filters:format(jpeg)/pic4659199.jpg",
+        "description": "In Jungle Speed, you must rely on your keen sense of observation and quick reflexes. It requires a steady hand -- which can be hard to maintain during the many fits of maniacal laughter! The wooden Totem sits in the middle of the table, waiting for the player with the fastest reflexes to snatch it up and win the game.\n\nEach player is dealt a hand of cards. In order to win you must be the first player to get rid of all of your cards. Each turn, all of the players reveal one of their cards. If two",
+        "categories": [
+          "Action / Dexterity",
+          "Card Game",
+          "Party Game"
+        ],
+        "alternateNames": [
+          "Arriba!",
+          "Jungle Speed Beach",
+          "Jungle Speed Plaża",
+          "Jungle Speed: Dzsungelláz",
+          "Jungle Speed: Koh Lanta",
+          "Дикие джунгли",
+          "Шалені Джунглі",
+          "ג'ונגל ספיד",
+          "سرعة الغابة",
+          "ジャングルスピード",
+          "丛林竞速",
+          "圖騰快手",
+          "정글 스피드"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "concept",
+      "selectedBggId": 147151,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 147151,
+          "name": "Concept",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 247314,
+          "name": "Concept Kids: Animals",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 294625,
+          "name": "Concept Kids: Animals – Fantasy Animals Promo Cards",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 343307,
+          "name": "Concept: Demo Mini Game",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 273468,
+          "name": "Concept: La Recharge",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 147151,
+        "name": "Concept",
+        "type": "boardgame",
+        "yearPublished": 2013,
+        "minPlayers": 4,
+        "maxPlayers": 12,
+        "minPlaytime": 40,
+        "maxPlaytime": 40,
+        "minAge": 10,
+        "bggRating": 6.74041,
+        "bggWeight": 1.3754,
+        "communityBestPlayers": 6,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgame/147151",
+        "thumbnail": "https://cf.geekdo-images.com/hHFs0_KRoW_FJ0cMIVgZcw__small/img/1MmGQvJVNw8TA7eWAJ8oIK-ZENc=/fit-in/200x150/filters:strip_icc()/pic4991925.jpg",
+        "image": "https://cf.geekdo-images.com/hHFs0_KRoW_FJ0cMIVgZcw__original/img/vbR7Wrdlq4fPcwUE1Ck9CowlJHY=/0x0/filters:format(jpeg)/pic4991925.jpg",
+        "description": "In Concept, your goal is to guess words through the association of icons. A team of two players &ndash; neighbors at the table &ndash; choose a word or phrase that the other players need to guess. Acting together, this team places pieces judiciously on the available icons on the game board.\n\nTo get others to guess \"milk\", for example, the team might place the question mark icon (which signifies the main concept) on the liquid icon, then cubes of this color on the icons for \"food/drink\" and \"whit",
+        "categories": [
+          "Deduction",
+          "Party Game",
+          "Word Game"
+        ],
+        "alternateNames": [
+          "Concept Χωρίς λόγια",
+          "Koncept",
+          "Концепт",
+          "Концепт",
+          "コンセプト",
+          "語破天機",
+          "콘셉트"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "rauha",
+      "selectedBggId": 371922,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 371922,
+          "name": "Rauha",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 408412,
+          "name": "Rauha: Syntyma",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 49510,
+          "name": "Sodan ja rauhan tie",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 343746,
+          "name": "Wo hat der Rauhaardackel sein h gelassen?",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 408412,
+          "name": "Rauha: Syntyma",
+          "type": "boardgameexpansion",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 371922,
+        "name": "Rauha",
+        "type": "boardgame",
+        "yearPublished": 2023,
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "minPlaytime": 45,
+        "maxPlaytime": 45,
+        "minAge": 10,
+        "bggRating": 7.01856,
+        "bggWeight": 2.3415,
+        "communityBestPlayers": 3,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgame/371922",
+        "thumbnail": "https://cf.geekdo-images.com/K0Prn4NsF1hUfEukplVF4g__small/img/cFPWdc7i-SQJsuMtk7KCmgZ6JAw=/fit-in/200x150/filters:strip_icc()/pic7109992.jpg",
+        "image": "https://cf.geekdo-images.com/K0Prn4NsF1hUfEukplVF4g__original/img/yKvSahdQN7HX14zaqoEnZNTR_lQ=/0x0/filters:format(jpeg)/pic7109992.jpg",
+        "description": "After millennia of sterility, life has sprung again on Rauha. As a venerable Shaman, one of its five worlds has been entrusted to you. Your powers are divine and allow you to shape the environment in order to turn this world into a cradle of life energy, keeper of serenity and harmony for the centuries to come.\n\nObtain the most victory points, represented as Life Energy, to win the game. You have 2 Ages to turn your world into an energetic core of Rauha. In Age 1, vegetation, terrain, and wildli",
+        "categories": [
+          "Environmental"
+        ],
+        "alternateNames": [
+          "劳哈・创世"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "blanc manger coco",
+      "selectedBggId": 193328,
+      "score": 94,
+      "candidates": [
+        {
+          "id": 193328,
+          "name": "Blanc-Manger Coco",
+          "type": "boardgame",
+          "score": 94
+        },
+        {
+          "id": 422104,
+          "name": "Blanc Manger Coco 7: Le bonheur partagé",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 436204,
+          "name": "Blanc Manger Coco DUO: Plaisir à deux",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 411221,
+          "name": "Blanc Manger Coco Junior: La Maîtresse en maillot de bain",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 452665,
+          "name": "Blanc Manger Coco: Plaquage cathédrale",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 193328,
+        "name": "Blanc-Manger Coco",
+        "type": "boardgame",
+        "yearPublished": 2015,
+        "minPlayers": 3,
+        "maxPlayers": 12,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 16,
+        "bggRating": 5.53563,
+        "bggWeight": 1.0435,
+        "communityBestPlayers": 6,
+        "communityMinAge": 16,
+        "bggLink": "https://boardgamegeek.com/boardgame/193328",
+        "thumbnail": "https://cf.geekdo-images.com/5KCW7TmROAa0zHrtCWyUWw__small/img/bQb9tWmOnsV-7R5BBgyrEj64XmI=/fit-in/200x150/filters:strip_icc()/pic4614123.jpg",
+        "image": "https://cf.geekdo-images.com/5KCW7TmROAa0zHrtCWyUWw__original/img/ZGQMXIKTF1uJdtJI3MhwqysiyGk=/0x0/filters:format(jpeg)/pic4614123.jpg",
+        "description": "Blanc-Manger Coco is a French implementation of Cards Against Humanity.\n\nThe lead player in turn chooses a question with a blank space, other players must choose an answer that must be funny, with the proposed cards having a big chance of being offensive.\n\nA strong knowledge of French language and culture is recommended to understand everything.",
+        "categories": [
+          "Card Game",
+          "Humor",
+          "Mature / Adult"
+        ],
+        "alternateNames": [
+          "Coco Papagei",
+          "Coco Rido",
+          "Loco Coco Nuts"
+        ]
+      }
+    },
+    {
+      "csvName": "dame",
+      "selectedBggId": 2083,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 2083,
+          "name": "Asterix und Maestria: Dame",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 457356,
+          "name": "Beda: Berechnungs-Dame-Spiel",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 194709,
+          "name": "Bullets & Dames",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 371308,
+          "name": "Cartzzle: La dame à la licorne",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 262274,
+          "name": "D6: Dungeons, Dudes, Dames, Danger, Dice and Dragons!",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 2083,
+        "name": "Dame",
+        "type": "boardgame",
+        "yearPublished": 1150,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 6,
+        "bggRating": 4.94957,
+        "bggWeight": 1.7056,
+        "communityBestPlayers": 2,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/2083",
+        "thumbnail": "https://cf.geekdo-images.com/S4IBcWYhlbn51_5f0EIR4g__small/img/wxqQxa2--TclJY8n8hzMGXzk1sI=/fit-in/200x150/filters:strip_icc()/pic113720.jpg",
+        "image": "https://cf.geekdo-images.com/S4IBcWYhlbn51_5f0EIR4g__original/img/jUJ1Ev4_WhCIT7aTvyvpIGG7cGI=/0x0/filters:format(jpeg)/pic113720.jpg",
+        "description": "Abstract strategy game where players move disc-shaped pieces across an 8 by 8 cross-hatched (\"checker\") board. \nPieces only move diagonally, and only one space at a time.  If a player can move one of his pieces so that it jumps over an adjacent piece of their opponent and into an empty space, that player captures the opponent's disc.  Jumping moves must be taken when possible, thereby creating a strategy game where players offer up jumps in exchange for setting up the board so that they jump eve",
+        "categories": [
+          "Abstract Strategy",
+          "Comic Book / Strip"
+        ],
+        "alternateNames": [
+          "American Checkers",
+          "American Pool Checkers",
+          "Arbonite Draughtsmen",
+          "Asterix und Maestria: Dame",
+          "Bee Brand Checkers",
+          "Betty Boop Checkers",
+          "Care Bear Checkers",
+          "Cars Checkers & Tic Tac Toe",
+          "Cats vs. Dogs Checkers",
+          "Championship Draughts",
+          "Chec-hers",
+          "Checker",
+          "Checker Board and Checkers",
+          "Checker Game",
+          "Checker Game Set",
+          "Checker Set",
+          "Checkers (Draughts)",
+          "Checkers Scooby-Doo!",
+          "Chicago Cubs Checkers",
+          "Classic Wooden Checkers",
+          "Clown Checkers",
+          "Comet Checkers",
+          "Comet Special Checkers",
+          "Complete Draughts",
+          "A Complete Game of Checkers",
+          "Composition Checkers",
+          "Corona",
+          "Crystal Clear Double Shot Checker Set",
+          "Dam",
+          "dáma",
+          "Dama",
+          "Damas",
+          "Damas Inglesas",
+          "Dame",
+          "Dame Mühle",
+          "Dames",
+          "Damesteine",
+          "Dammen",
+          "Damoj",
+          "Damschijven",
+          "Damspel",
+          "Dan Dare Draughts",
+          "Diagonal Checkers",
+          "Dino Checkers",
+          "Disney Draughts",
+          "Draughtmen",
+          "Draughts",
+          "Draughts Men",
+          "Draughtsman",
+          "Draughtsmen",
+          "Fierges",
+          "FridgeCheckers",
+          "Gringotts Bank Checkers",
+          "Hardwood Checkers",
+          "Hardwood Draughts",
+          "Hershey's Chockers",
+          "Interlocking Checkers",
+          "Interlocking Draughtsmen",
+          "Jeu de Dames",
+          "Le Jeu de Dames",
+          "Jeu forcé",
+          "Jeu plaisant",
+          "John Deere Checkers",
+          "Kabe",
+          "Kings' Row",
+          "The Lord of the Rings Checkers",
+          "The Lord of the Rings Checkers Collector's Edition",
+          "Magnetic Checkers",
+          "Magnetic Dame",
+          "Magnetic Draughts",
+          "Melamine 2-in-1 Checkers and Serve Tray",
+          "Mickey vs Minnie Checkers",
+          "MLB Checkers",
+          "NFL Checkers",
+          "Ntama",
+          "Nuka-Cola Checkers",
+          "Oer Hoek",
+          "Perfection Checkers",
+          "Picture Checkers Space Series",
+          "Pocket Draughts",
+          "Polish Draughts",
+          "Pool Checkers",
+          "Šaškės",
+          "Shotglass Checkers",
+          "Solid Wood Checkers and Tic Tac Toe",
+          "Standard Oil Checkers",
+          "Super Heroes Checker Set",
+          "Super Mario Checkers",
+          "Sylon Draughtsmen",
+          "Tammi",
+          "Tournament Checker Set",
+          "Tournament Checkers",
+          "Transformers Animated Checkers",
+          "The Travellers Set of Ivory Draughts",
+          "Vest Pocket Complete Checker Set",
+          "Warcaby",
+          "Williamsburg Wooden Checkers",
+          "The World of Beatrix Potter Draughts",
+          "Ντάμα",
+          "Шашки",
+          "דמקה",
+          "西洋跳棋",
+          "체커"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "mikado",
+      "selectedBggId": 2065,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 2065,
+          "name": "Mikado",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 3728,
+          "name": "Mikado",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 5259,
+          "name": "Disc-Mikado",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 6424,
+          "name": "Jumbo Mikado Pick-Up-Sticks",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 14617,
+          "name": "Mikado Magnetico",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 2065,
+        "name": "Mikado",
+        "type": "boardgame",
+        "yearPublished": 1587,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 60,
+        "maxPlaytime": 60,
+        "minAge": 8,
+        "bggRating": 7.37789,
+        "bggWeight": 3.7977,
+        "communityBestPlayers": 2,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/2065",
+        "thumbnail": "https://cf.geekdo-images.com/bDAUtRTr6gSaywKalCmsCA__small/img/2Esbvkie_jGjPq3ABrQFJ85q6rM=/fit-in/200x150/filters:strip_icc()/pic4348588.jpg",
+        "image": "https://cf.geekdo-images.com/bDAUtRTr6gSaywKalCmsCA__original/img/k0YJB4MJKYpbH0woIULuk_uwaes=/0x0/filters:format(jpeg)/pic4348588.jpg",
+        "description": "Of Japanese origins, Shogi is played on a 9 by 9 board, and the object is to capture the opponent's king. There are two main differences with Western chess. First, not only pawns but almost every piece can promote if it reaches the opponents three last rows. Second and most distinctive characteristic is that captured pieces become property of the capturing player and during his turn he can \"parachute\" or \"drop\" them back to the board instead of performing a normal move. Because of this feature, ",
+        "categories": [
+          "Abstract Strategy"
+        ],
+        "alternateNames": [
+          "Basic Shogi Set",
+          "Design Shogi",
+          "Dōbutsu Shōgi in the Greenwood",
+          "Dobutsu Shogi in the Greenwood",
+          "Japansk schack",
+          "Let's Catch the Lion! 9×9",
+          "Mikado",
+          "Pocket Magnetic Shogi Set",
+          "Samurai",
+          "Shogi Perfecto",
+          "Shogi Perfecto Iki",
+          "Shogi Perfecto Zen",
+          "Shogi Premium Collection",
+          "Shogi: Japanese chess game",
+          "Shogito",
+          "Study Shogi",
+          "Universal Shogi",
+          "Western Shogi Set",
+          "Сёги",
+          "おおきな森のどうぶつしょうぎ: Dobutsu Shogi in the Greenwood",
+          "かおのある将棋: Expressive Shogi",
+          "わんにゃん将棋",
+          "将棋",
+          "將棋"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "trivial pursuit edition famille",
+      "selectedBggId": 325615,
+      "score": 85,
+      "candidates": [
+        {
+          "id": 325615,
+          "name": "Trivial Pursuit: Édition Antilles",
+          "type": "boardgame",
+          "score": 85
+        },
+        {
+          "id": 334435,
+          "name": "Trivial Pursuit: Édition Alsace",
+          "type": "boardgame",
+          "score": 81
+        },
+        {
+          "id": 159230,
+          "name": "Trivial Pursuit: Édition France",
+          "type": "boardgame",
+          "score": 81
+        },
+        {
+          "id": 159230,
+          "name": "Trivial Pursuit: Édition France",
+          "type": "boardgameexpansion",
+          "score": 81
+        },
+        {
+          "id": 21967,
+          "name": "Trivial Pursuit: Edition Kids",
+          "type": "boardgame",
+          "score": 77
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 325615,
+        "name": "Trivial Pursuit: Édition Antilles",
+        "type": "boardgame",
+        "yearPublished": 2001,
+        "minPlayers": 2,
+        "maxPlayers": 36,
+        "minPlaytime": 90,
+        "maxPlaytime": 90,
+        "minAge": 12,
+        "bggLink": "https://boardgamegeek.com/boardgame/325615",
+        "thumbnail": "https://cf.geekdo-images.com/QUXr1fPB6pNB5_CiCIDZNQ__small/img/pE2zeJtv4gayXF_R5v-p5Q9xP7g=/fit-in/200x150/filters:strip_icc()/pic5824718.jpg",
+        "image": "https://cf.geekdo-images.com/QUXr1fPB6pNB5_CiCIDZNQ__original/img/7L4gtaEsNzROEgr6fHxkWzdqgCE=/0x0/filters:format(jpeg)/pic5824718.jpg",
+        "description": "Trivial Pursuit &Eacute;dition Antilles\n2000 questions in different fields related to the Antilles:\n\n     the geography of the West Indies,\n     the history of the Caribbean,\n     the Creole cuisine,\n     tropical nature, \n     great sportsmen from the Antilles,\n     local music...",
+        "categories": [
+          "Party Game",
+          "Trivia"
+        ]
+      }
+    },
+    {
+      "csvName": "scrabble de luxe",
+      "selectedBggId": 320,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 320,
+          "name": "Scrabble De Luxe",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 320,
+        "name": "Scrabble De Luxe",
+        "type": "boardgame",
+        "yearPublished": 1948,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 90,
+        "maxPlaytime": 90,
+        "minAge": 10,
+        "bggRating": 6.27445,
+        "bggWeight": 2.0511,
+        "communityBestPlayers": 2,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/320",
+        "thumbnail": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__small/img/RUmuGCB40FQH0en0R2nrcsSO7DE=/fit-in/200x150/filters:strip_icc()/pic404651.jpg",
+        "image": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__original/img/11jrKPiOVTNl5NwX83KGtTZEq40=/0x0/filters:format(jpeg)/pic404651.jpg",
+        "description": "In this classic word game, players use their seven drawn letter-tiles to form words on the gameboard. Each word laid out earns points based on the commonality of the letters used, with certain board spaces giving bonuses.  But a word can only be played if it uses at least one already-played tile or adds to an already-played word.  This leads to slightly tactical play, as potential words are rejected because they would give an opponent too much access to the better bonus spaces.\n\nSkip-a-cross was",
+        "categories": [
+          "Word Game"
+        ],
+        "alternateNames": [
+          "Alfa-Pet",
+          "Alfapet",
+          "Alfapet Original",
+          "Board-script",
+          "BoardScript",
+          "Buchstaben Yolo",
+          "Cris Cros",
+          "Crossword",
+          "Crucigrama",
+          "Deluxe Edition Scrabble Brand Crossword Game",
+          "Deluxe Turntable Scrabble",
+          "Deluxe Wood Edition Scrabble",
+          "Dilema",
+          "Dilema",
+          "Funworder",
+          "Game Folio Edition Scrabble",
+          "Das grosse Scrabble",
+          "Inflatable Scrabble",
+          "Intelect",
+          "Intelect Luxe",
+          "Krafla",
+          "Kriblekryds",
+          "Kris Kros",
+          "KrisKros Klasik",
+          "Krossgátuspilið",
+          "Labo 1",
+          "Large Print Scrabble",
+          "Literati",
+          "Magnet Scrabble",
+          "No.71 Deluxe Scrabble Crossword Game",
+          "Optimots",
+          "Palavras Cruzadas",
+          "Pensante",
+          "Pocket Scrabble",
+          "Reis Scrabble",
+          "Reise-Scrabble",
+          "Riti-Rati",
+          "Scrabble Brand Crossword Game",
+          "Scrabble Brand Crossword Game Deluxe Edition",
+          "Scrabble Brand Crossword Game Edición en Español",
+          "Scrabble Classique",
+          "Scrabble Crossword Game",
+          "Scrabble Crossword Game: Deluxe Travel Edition",
+          "Scrabble Crossword Game: German Edition",
+          "Scrabble Crossword Game: Russian Edition",
+          "Scrabble De Luxe",
+          "Scrabble De Luxe mit elektronischem Timer",
+          "Scrabble de poche",
+          "Scrabble de Voyage",
+          "Scrabble Deluxe Edition",
+          "Scrabble Deluxe Giant Edition",
+          "Scrabble Deluxe Travel Edition",
+          "Scrabble Foreign Language: Hebrew",
+          "Scrabble Géant",
+          "Scrabble im Geschenkschuber",
+          "Scrabble Kompakt",
+          "Scrabble Large Type Edition",
+          "Scrabble mit Drehkreuz",
+          "Scrabble Onyx Edition",
+          "Scrabble Original",
+          "Scrabble Platinum Edition",
+          "Scrabble pocket",
+          "Scrabble to Go",
+          "Scrabble XL",
+          "Scrabble yn Gymraeg",
+          "Scrabble: Club-Sonderausgabe",
+          "Scrabble: Dialekt-Edition Bairisch",
+          "Scrabble: Dialekt-Edition Berlinerisch",
+          "Scrabble: Dialekt-Edition Kölsch",
+          "Scrabble: Edición Española",
+          "Scrabble: Electronic Scoring",
+          "Scrabble: Elite Access",
+          "Scrabble: Game Folio Edition",
+          "Scrabble: Große Buchstaben",
+          "Scrabble: Jubiläumsausgabe",
+          "Scrabble: L'originale in Italiano",
+          "Scrabble: Millennium",
+          "Scrabble: Nostalgia Edition",
+          "Scrabble: Originál",
+          "Scrabble: Originál",
+          "Scrabble: Originalet",
+          "Scrabble: Prestige",
+          "Scrabble: The Glass Edition",
+          "Scrabble: Vintage Edition",
+          "Signature Edition Scrabble Crossword Game",
+          "Skip-A-Cross",
+          "Tasku Scrabble",
+          "Tile Lock Scrabble",
+          "Travel Scrabble",
+          "Travel Scrabble De Luxe",
+          "Word for Word Crossword Game",
+          "World's Smallest Scrabble",
+          "Скрабл",
+          "Скрабл Дорожный",
+          "Скрабъл Оригинал",
+          "שבץ-נא",
+          "스크래블 오리지널"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "mysterium",
+      "selectedBggId": 181304,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 181304,
+          "name": "Mysterium",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 113997,
+          "name": "Mysterium",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 17687,
+          "name": "Bernini Mysterium",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 362797,
+          "name": "Mini Escapes: Das Mysterium des Verlorenen Kultes",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 423424,
+          "name": "Mysterium im Kloster",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 181304,
+        "name": "Mysterium",
+        "type": "boardgame",
+        "yearPublished": 2015,
+        "minPlayers": 2,
+        "maxPlayers": 7,
+        "minPlaytime": 42,
+        "maxPlaytime": 42,
+        "minAge": 10,
+        "bggRating": 7.1903,
+        "bggWeight": 1.89,
+        "communityBestPlayers": 5,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/181304",
+        "thumbnail": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__small/img/sW38512N2r1ZuuPE2TUD2LNfoxM=/fit-in/200x150/filters:strip_icc()/pic8625343.jpg",
+        "image": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__original/img/6igmXolQesapNU9yEnexip6m9B8=/0x0/filters:format(jpeg)/pic8625343.jpg",
+        "description": "In the 1920s, Mr. MacDowell, a gifted astrologer, immediately detected a supernatural being upon entering his new house in Scotland. He gathered eminent mediums of his time for an extraordinary s&eacute;ance, and they have seven hours to make contact with the ghost and investigate any clues that it can provide to unlock an old mystery.\n\nUnable to talk, the amnesiac ghost communicates with the mediums through visions, which are represented in the game by illustrated cards. The mediums must deciph",
+        "categories": [
+          "Deduction",
+          "Murder / Mystery",
+          "Party Game"
+        ],
+        "alternateNames": [
+          "ミステリウム",
+          "詭祕莊園"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "pandemic legacy saison 1",
+      "selectedBggId": 161936,
+      "score": 92,
+      "candidates": [
+        {
+          "id": 161936,
+          "name": "Pandemic Legacy:  Saison 1",
+          "type": "boardgame",
+          "score": 92
+        },
+        {
+          "id": 314040,
+          "name": "Pandemic Legacy: Saison 0",
+          "type": "boardgame",
+          "score": 92
+        },
+        {
+          "id": 221107,
+          "name": "Pandemic Legacy: Saison 2",
+          "type": "boardgame",
+          "score": 92
+        }
+      ],
+      "details": {
+        "id": 161936,
+        "name": "Pandemic Legacy: Saison 1",
+        "type": "boardgame",
+        "yearPublished": 2015,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 60,
+        "maxPlaytime": 60,
+        "minAge": 13,
+        "bggRating": 8.50244,
+        "bggWeight": 2.8279,
+        "communityBestPlayers": 4,
+        "communityMinAge": 12,
+        "bggLink": "https://boardgamegeek.com/boardgame/161936",
+        "thumbnail": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__small/img/NQQcjS31TO0DE246N9rpt0hd9eo=/fit-in/200x150/filters:strip_icc()/pic2452831.png",
+        "image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__original/img/PlzAH7swN1nsFxOXbfUvE3TkE5w=/0x0/filters:format(png)/pic2452831.png",
+        "description": "Pandemic Legacy is a co-operative campaign game, with an overarching story arc played through 12-24 sessions, depending on how well your group does at the game. At the beginning, the game starts in a very similar fashion as basic Pandemic, in which your team of disease-fighting specialists races against the clock to travel around the world, treating disease hot spots while researching cures for each of four plagues before they get out of hand.\n\nDuring a player's turn, they have four actions avai",
+        "categories": [
+          "Environmental",
+          "Medical"
+        ],
+        "alternateNames": [
+          "Pandemic Legacy:  Saison 1",
+          "Pandemic Legacy: 1. Évad",
+          "Pandemic Legacy: 1a. Temporada",
+          "Pandemic Legacy: Rok 1",
+          "Pandemic Legacy: Seizoen 1",
+          "Pandemic Legacy: Sezon 1",
+          "Пандемия: Наследие",
+          "Пандемія Спадщина. Сезон 1",
+          "パンデミック：レガシー シーズン1",
+          "瘟疫危機︰承傳",
+          "팬데믹 레거시: 시즌 1"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "mr jack",
+      "selectedBggId": 21763,
+      "score": 88,
+      "candidates": [
+        {
+          "id": 21763,
+          "name": "Mr. Jack",
+          "type": "boardgame",
+          "score": 88
+        },
+        {
+          "id": 72287,
+          "name": "Mr. Jack Pocket",
+          "type": "boardgame",
+          "score": 47
+        },
+        {
+          "id": 30362,
+          "name": "Mr. Jack: Extension",
+          "type": "boardgame",
+          "score": 37
+        },
+        {
+          "id": 260303,
+          "name": "Mr. Jack: Extension",
+          "type": "boardgame",
+          "score": 37
+        },
+        {
+          "id": 30362,
+          "name": "Mr. Jack: Extension",
+          "type": "boardgameexpansion",
+          "score": 37
+        }
+      ],
+      "details": {
+        "id": 21763,
+        "name": "Mr. Jack",
+        "type": "boardgame",
+        "yearPublished": 2006,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 9,
+        "bggRating": 6.96068,
+        "bggWeight": 2.1717,
+        "communityBestPlayers": 2,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgame/21763",
+        "thumbnail": "https://cf.geekdo-images.com/CDdF4xOQJsNK0gX8-tBdCQ__small/img/5b44BrekfAQznAhRIOSPDtwHMsg=/fit-in/200x150/filters:strip_icc()/pic3066125.jpg",
+        "image": "https://cf.geekdo-images.com/CDdF4xOQJsNK0gX8-tBdCQ__original/img/d18QDvd0PyfMsipVpHPajZCFPsE=/0x0/filters:format(jpeg)/pic3066125.jpg",
+        "description": "In Mr. Jack, one of the two players represents Jack the Ripper, who will be one of the eight characters on the board. This player knows which character is Mr. Jack, and his goal is to flee from the district as soon as possible (or avoid being accused for eight turns). The other player represents an independent investigator (not represented on the board) who tries to guess the identity of Jack &mdash; but he can make only one accusation during the game!\n\nDuring each turn, the players move the cha",
+        "categories": [
+          "Deduction",
+          "Murder / Mystery"
+        ],
+        "alternateNames": [
+          "Mr.ジャック",
+          "Une Ombre sur Whitechapel",
+          "Мистер Джек в Лондоне"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "combat de coqs",
+      "selectedBggId": 329321,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 329321,
+          "name": "Combat de Coqs",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 329321,
+        "name": "Combat de Coqs",
+        "type": "boardgame",
+        "yearPublished": 2018,
+        "minPlayers": 2,
+        "maxPlayers": 12,
+        "minPlaytime": 30,
+        "maxPlaytime": 60,
+        "minAge": 15,
+        "bggRating": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/329321",
+        "thumbnail": "https://cf.geekdo-images.com/TAeDLH8wABPsOQZ6AH4Y9Q__small/img/kuxdi5TCzRv1faKByOrfhebPu9Q=/fit-in/200x150/filters:strip_icc()/pic5921797.jpg",
+        "image": "https://cf.geekdo-images.com/TAeDLH8wABPsOQZ6AH4Y9Q__original/img/xnnVjPKhOeml1Zln1BxAX7bOHR8=/0x0/filters:format(jpeg)/pic5921797.jpg",
+        "description": "Combat de Coqs is the benchmark for French culture!\n\n1320 questions divided into 12 categories (Music, Cinema, Sport, Media, Fashion, Gastronomy, History, Geography, French language, Literature, Economy, Art)\nThere are questions about the great classics, but also questions about current affairs.\n\nThis game will perfectly accompany your evenings with friends, or your Sundays with family.\n\nGoal:\nbe the first player to validate each of the 12 categories by correctly answering the questions.\n\nGamepl",
+        "categories": [
+          "Humor",
+          "Party Game",
+          "Trivia"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "uno wizz",
+      "selectedBggId": 2223,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 2223,
+          "name": "UNO",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 3004,
+          "name": "UNO Dice",
+          "type": "boardgame",
+          "score": 63
+        },
+        {
+          "id": 157945,
+          "name": "UNO Dice",
+          "type": "boardgame",
+          "score": 63
+        },
+        {
+          "id": 12162,
+          "name": "UNO Blitzo",
+          "type": "boardgame",
+          "score": 60
+        },
+        {
+          "id": 9465,
+          "name": "UNO Bingo",
+          "type": "boardgame",
+          "score": 56
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 2223,
+        "name": "UNO",
+        "type": "boardgame",
+        "yearPublished": 1971,
+        "minPlayers": 2,
+        "maxPlayers": 10,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 6,
+        "bggRating": 5.48182,
+        "bggWeight": 1.1001,
+        "communityBestPlayers": 4,
+        "communityMinAge": 5,
+        "bggLink": "https://boardgamegeek.com/boardgame/2223",
+        "thumbnail": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__small/img/AUkAjClJAk3BX1vEpk7EasSh_44=/fit-in/200x150/filters:strip_icc()/pic8204165.jpg",
+        "image": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__original/img/fRfoyWezpQsumExNKVxf1cwtJfg=/0x0/filters:format(jpeg)/pic8204165.jpg",
+        "description": "Players race to empty their hands and catch opposing players with cards left in theirs, which score points. In turns, players attempt to play a card by matching its color, number, or word to the topmost card on the discard pile. If unable to play, players draw a card from the draw pile, and if still unable to play, they pass their turn. Wild and special cards spice things up a bit.\n\nUNO is a commercial version of Crazy Eights, a public domain card game played with a standard deck of playing card",
+        "categories": [
+          "Card Game",
+          "Children&#039;s Game",
+          "Comic Book / Strip"
+        ],
+        "alternateNames": [
+          "Adventure Time: Can Can",
+          "AS",
+          "Assano",
+          "Can-Can",
+          "Crown UNO Go",
+          "Diary of a Wimpy Kid UNO",
+          "Mendi Kot",
+          "ONE: American Card Game",
+          "The Original UNO",
+          "Österreichische Post Gratisspiel",
+          "Super Ένα",
+          "U.N.O.",
+          "UNO Canvas: Billie Eilish",
+          "UNO Canvas: Loteria",
+          "UNO Dia de Muertos",
+          "UNO Original",
+          "UNO: 25th Silver Anniversary Special Edition",
+          "UNO: 40th Anniversary Edition",
+          "UNO: 50th Anniversary Edition",
+          "UNO: Artiste Series – Keith Haring",
+          "UNO: Artiste Series – Shepard Fairey",
+          "UNO: Artiste Series – Takashi Murakami",
+          "UNO: Braille Edition",
+          "UNO: Calgonit",
+          "UNO: CAR-GO",
+          "UNO: Coca-Cola",
+          "UNO: ColorADD",
+          "UNO: De Luxe",
+          "UNO: Deluxe",
+          "UNO: Detroit",
+          "UNO: Disney Villains",
+          "UNO: Doraemon",
+          "UNO: Ferrari",
+          "UNO: Fifty Years of Being Wild",
+          "UNO: Ghostbusters",
+          "UNO: Go!",
+          "UNO: Holiday",
+          "UNO: Kiki's Delivery Service",
+          "UNO: Mendi Kot",
+          "UNO: Minimalista",
+          "UNO: Monster High",
+          "UNO: Nothin' But Paper",
+          "UNO: One Piece",
+          "UNO: Platinum Edition",
+          "UNO: Play With Pride",
+          "UNO: Pocket",
+          "UNO: Retro Edition",
+          "UNO: Scooby-Doo!",
+          "UNO: Splash",
+          "UNO: Star Wars – Clone Wars",
+          "UNO: Summer",
+          "UNO: Super Kick",
+          "UNO: Teen Titans",
+          "UNO: Toy Story 4",
+          "UNO: USA",
+          "UNO: Wilderness",
+          "Vriompeis",
+          "World's Smallest UNO",
+          "우노"
+        ]
+      }
+    },
+    {
+      "csvName": "revelations classique",
+      "selectedBggId": 92098,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 92098,
+          "name": "Revelations",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 310990,
+          "name": "Revelations",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 404521,
+          "name": "Revelations: Skirmish",
+          "type": "boardgame",
+          "score": 57
+        },
+        {
+          "id": 364639,
+          "name": "Juduku 4: Révélations Explosives",
+          "type": "boardgame",
+          "score": 44
+        },
+        {
+          "id": 132313,
+          "name": "Malifaux: Burning Revelations – Kaeris Box Set",
+          "type": "boardgame",
+          "score": 33
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 92098,
+        "name": "Revelations",
+        "type": "boardgame",
+        "yearPublished": 0,
+        "minPlayers": 5,
+        "maxPlayers": 10,
+        "minAge": 18,
+        "bggRating": 5.35714,
+        "bggWeight": 1,
+        "bggLink": "https://boardgamegeek.com/boardgame/92098",
+        "thumbnail": "https://cf.geekdo-images.com/XeuenBUXNbOG8WrbWrVLUg__small/img/v9bianJNnyX_IOKcuVRR-XxsZSg=/fit-in/200x150/filters:strip_icc()/pic963207.jpg",
+        "image": "https://cf.geekdo-images.com/XeuenBUXNbOG8WrbWrVLUg__original/img/F8WoOrOr9EQKRsSuaNM_6B2tNLs=/0x0/filters:format(jpeg)/pic963207.jpg",
+        "description": "Hilarious party game for 5-10 adult players. No matter what the truth is Revelations will reveal the sins, but exactly who the sinners are will remain stricly private! You should expect to have some hilarious and lively discussions as you try to work out how many of your friends have, for example, been caught shoplifting.\n\nThe object of this game is to guess the number of your fellow players who have commited each \"sin\" but exactly who has commited the sin will remain a secret! This game is not ",
+        "categories": [
+          "Mature / Adult",
+          "Party Game"
+        ]
+      }
+    },
+    {
+      "csvName": "monique jeu d'ambiance",
+      "selectedBggId": 369750,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 369750,
+          "name": "Monique",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 369750,
+        "name": "Monique",
+        "type": "boardgame",
+        "yearPublished": 2021,
+        "minPlayers": 3,
+        "maxPlayers": 12,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 16,
+        "bggRating": 5.09412,
+        "bggWeight": 1,
+        "communityMinAge": 14,
+        "bggLink": "https://boardgamegeek.com/boardgame/369750",
+        "thumbnail": "https://cf.geekdo-images.com/XnA3QYYje_91SBEecRN2Vg__small/img/8Ltp5pJMrgt7d-RYHs_P9WB4o9c=/fit-in/200x150/filters:strip_icc()/pic7048402.jpg",
+        "image": "https://cf.geekdo-images.com/XnA3QYYje_91SBEecRN2Vg__original/img/mWttdNXzN4308539Z-e2dAZdGGQ=/0x0/filters:format(jpeg)/pic7048402.jpg",
+        "description": "Monique is an absurd party game of word associations that promises to spend delirious evenings!\n\nThe first player places a face-up card of his choice and reads it aloud, example \"Goat\". 4 choices are available to you:\n\n1. Place a Word card face up. Your word must be related to the previous one. If the word has an obvious connection, for example \"Cheese\" with \"Goat\", your turn is over. If your word sows doubt, another player says \"I don't see the connection\". You have to justify the relationship ",
+        "categories": [
+          "Humor",
+          "Party Game",
+          "Word Game"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "limite limite",
+      "selectedBggId": 193329,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 193329,
+          "name": "Limite limite",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 452272,
+          "name": "Limite Limite Limite",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 269074,
+          "name": "Limite Limite: Gold",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 269038,
+          "name": "Limite Limite: Limite",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 33792,
+          "name": "Punto límite",
+          "type": "boardgame",
+          "score": 62
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 193329,
+        "name": "Limite limite",
+        "type": "boardgame",
+        "yearPublished": 2015,
+        "minPlayers": 3,
+        "maxPlayers": 10,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 18,
+        "bggRating": 5.17056,
+        "bggWeight": 1,
+        "communityBestPlayers": 6,
+        "communityMinAge": 14,
+        "bggLink": "https://boardgamegeek.com/boardgame/193329",
+        "thumbnail": "https://cf.geekdo-images.com/twXAKJq58veDszkPefwnmQ__small/img/VKXHzMwHsLkZ934EBeo7aa9Mhtc=/fit-in/200x150/filters:strip_icc()/pic3712600.png",
+        "image": "https://cf.geekdo-images.com/twXAKJq58veDszkPefwnmQ__original/img/s_V36FPMMt6GD7UAqJdDULFMDgc=/0x0/filters:format(png)/pic3712600.png",
+        "description": "Limite limite is a French implementation of Cards Against Humanity.\n\nThe lead player in turn chooses a question with a blank space, other players must choose an answer that must be funny, with the proposed cards having a big chance of being offensive.\n\nA strong knowledge of French language and culture (it that exists) is recommended to understand everything.",
+        "categories": [
+          "Card Game",
+          "Humor",
+          "Mature / Adult"
+        ]
+      }
+    },
+    {
+      "csvName": "sardines",
+      "selectedBggId": 27071,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 27071,
+          "name": "Sardines",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 409500,
+          "name": "Sardines",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 33004,
+          "name": "Can the Sardines",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 55483,
+          "name": "Comme des Sardines...",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 417147,
+          "name": "Sardines de Marseille",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 27071,
+        "name": "Sardines",
+        "type": "boardgame",
+        "yearPublished": 2008,
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "minPlaytime": 15,
+        "maxPlaytime": 15,
+        "minAge": 5,
+        "bggRating": 5.9968,
+        "bggWeight": 1,
+        "communityBestPlayers": 3,
+        "communityMinAge": 5,
+        "bggLink": "https://boardgamegeek.com/boardgame/27071",
+        "thumbnail": "https://cf.geekdo-images.com/3nj3yrK0KGCk-QEiEs6vUQ__small/img/lBE2LNdzkR2MMlLEeQmEMWCZpnM=/fit-in/200x150/filters:strip_icc()/pic5879854.jpg",
+        "image": "https://cf.geekdo-images.com/3nj3yrK0KGCk-QEiEs6vUQ__original/img/1Q9RtaGJhv-NddYuZvd9IEyaNsE=/0x0/filters:format(jpeg)/pic5879854.jpg",
+        "description": "A card game for children (5+ years) and adults. Excellent for strengthening and building upon the skills introduced in basic memory games but with a twist. Requires players to not only memorize the individual sardines and their characteristics, but to concentrate deeply on their sequence and develop mnemonic devices to help recall the characters and order.\n\nFrom the publisher:\n\n\"Observation and memory game.\nYou have a couple of seconds to observe the little sardines, memorise them and find them ",
+        "categories": [
+          "Card Game",
+          "Children&#039;s Game",
+          "Memory"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "blanc manger coco la recave",
+      "selectedBggId": 200727,
+      "score": 93,
+      "candidates": [
+        {
+          "id": 200727,
+          "name": "Blanc-Manger Coco: La Recave",
+          "type": "boardgame",
+          "score": 93
+        },
+        {
+          "id": 216706,
+          "name": "Blanc-Manger Coco: La Pilule",
+          "type": "boardgame",
+          "score": 75
+        },
+        {
+          "id": 353473,
+          "name": "Blanc-manger Coco: La Gaule",
+          "type": "boardgame",
+          "score": 74
+        },
+        {
+          "id": 268411,
+          "name": "Blanc-Manger Coco: La Geekerie",
+          "type": "boardgame",
+          "score": 73
+        },
+        {
+          "id": 267832,
+          "name": "Blanc-Manger Coco 2: Le déluge",
+          "type": "boardgame",
+          "score": 70
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 200727,
+        "name": "Blanc-Manger Coco: La Recave",
+        "type": "boardgame",
+        "yearPublished": 2016,
+        "minPlayers": 3,
+        "maxPlayers": 12,
+        "maxPlaytime": 30,
+        "minAge": 16,
+        "bggRating": 6.40115,
+        "bggLink": "https://boardgamegeek.com/boardgame/200727",
+        "thumbnail": "https://cf.geekdo-images.com/mo7xhA_nbYlNwbB2qz65cQ__small/img/CQVFaM6L_eVGeGDNUXrHN9EEKCA=/fit-in/200x150/filters:strip_icc()/pic3030667.jpg",
+        "image": "https://cf.geekdo-images.com/mo7xhA_nbYlNwbB2qz65cQ__original/img/gRWGyAOYyoFuqXdrxlRD9LrdrNc=/0x0/filters:format(jpeg)/pic3030667.jpg",
+        "description": "La Recave is the first expansion for Blanc Manger Coco. It contains 40 question cards and 160 answer cards.",
+        "categories": [
+          "Card Game",
+          "Humor",
+          "Mature / Adult"
+        ]
+      }
+    },
+    {
+      "csvName": "top ten 18+",
+      "selectedBggId": 334137,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 334137,
+          "name": "Top Ten 18+",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 334137,
+        "name": "Top Ten 18+",
+        "type": "boardgame",
+        "yearPublished": 2021,
+        "minPlayers": 4,
+        "maxPlayers": 9,
+        "minPlaytime": 20,
+        "maxPlaytime": 40,
+        "minAge": 18,
+        "bggRating": 7.24249,
+        "bggWeight": 1.0833,
+        "communityBestPlayers": 6,
+        "communityMinAge": 16,
+        "bggLink": "https://boardgamegeek.com/boardgame/334137",
+        "thumbnail": "https://cf.geekdo-images.com/eYMLFAmqqNwOb0i7iqTudQ__small/img/G1fwQoNfQbz8RjjEyrBcBDrj9Zk=/fit-in/200x150/filters:strip_icc()/pic6053974.jpg",
+        "image": "https://cf.geekdo-images.com/eYMLFAmqqNwOb0i7iqTudQ__original/img/sJVIEL_8W_Vrts5dWUvixUKV6SY=/0x0/filters:format(jpeg)/pic6053974.jpg",
+        "description": "A fun co-op game!\nFor each theme (funny or surprising), each player has to invent a response. But the intensity of the answer has to correspond to his secret number. Then, if the Cap&rsquo;ten puts the answers in the correct order, the team wins!\n\nThere are always 10 good reasons to say stupid things!\nA fun, entertaining cooperative game!\n\nFor each theme, each player has to invent a response and say it. But the intensity of the answer has to correspond to his secret number, from 1 (in blue) to 1",
+        "categories": [
+          "Mature / Adult",
+          "Party Game"
+        ],
+        "alternateNames": [
+          "Gros niaisage 18+",
+          "Top 10 18+",
+          "Тип-Топ для взрослых",
+          "腦洞量表：沒有下限"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "le monde est fou",
+      "selectedBggId": 120814,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 120814,
+          "name": "Le Monde Est Fou",
+          "type": "boardgame",
+          "score": 100
+        }
+      ],
+      "details": {
+        "id": 120814,
+        "name": "Le Monde Est Fou",
+        "type": "boardgame",
+        "yearPublished": 2012,
+        "minPlayers": 4,
+        "maxPlayers": 12,
+        "minPlaytime": 45,
+        "maxPlaytime": 45,
+        "minAge": 12,
+        "bggRating": 6.08538,
+        "bggWeight": 1.1429,
+        "communityBestPlayers": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/120814",
+        "thumbnail": "https://cf.geekdo-images.com/giCVPV7Bgrr3wXKbfVSKTg__small/img/7Rk5Bo0WjOKEdfpT_CQA5dOpxUg=/fit-in/200x150/filters:strip_icc()/pic1256426.jpg",
+        "image": "https://cf.geekdo-images.com/giCVPV7Bgrr3wXKbfVSKTg__original/img/qZ-j_9EpRnm0ClOVWgpCZrgXOvU=/0x0/filters:format(jpeg)/pic1256426.jpg",
+        "description": "You need a psychiatrist! You and the rest of the group all share a quirky problem that is interfering with your life, so you have gathered together and invited a psychiatrist to assess your condition. Will the psychiatrist be able to diagnose the problem, or will he end up just as crazy as you?\n\nOff Your Rocker is the hilarious party game of quirky insanity! The patients select a quirk that they will all portray and the psychiatrist attempts to guess the quirk by asking questions and looking for",
+        "categories": [
+          "Deduction",
+          "Party Game"
+        ],
+        "alternateNames": [
+          "Le Monde Est Fou"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "cardline globetrotter",
+      "selectedBggId": 145014,
+      "score": 95,
+      "candidates": [
+        {
+          "id": 145014,
+          "name": "Cardline: Globetrotter",
+          "type": "boardgame",
+          "score": 95
+        }
+      ],
+      "details": {
+        "id": 145014,
+        "name": "Cardline: Globetrotter",
+        "type": "boardgame",
+        "yearPublished": 2013,
+        "minPlayers": 2,
+        "maxPlayers": 7,
+        "minPlaytime": 15,
+        "maxPlaytime": 15,
+        "minAge": 8,
+        "bggRating": 6.34822,
+        "bggWeight": 1.375,
+        "communityBestPlayers": 4,
+        "communityMinAge": 10,
+        "bggLink": "https://boardgamegeek.com/boardgame/145014",
+        "thumbnail": "https://cf.geekdo-images.com/1WW2WDfLv2rEr3FcjL_5aQ__small/img/aTLmqBRlDIK9wbP1U1I0GU746YM=/fit-in/200x150/filters:strip_icc()/pic1891452.jpg",
+        "image": "https://cf.geekdo-images.com/1WW2WDfLv2rEr3FcjL_5aQ__original/img/X-uUn9JwJAXlvH1FijXCCl2JOAA=/0x0/filters:format(jpeg)/pic1891452.jpg",
+        "description": "Like its predecessor Cardline: Animals, players of Cardline: Globetrotter want to rid themselves of cards as quickly as they can, with the first player to have an empty hand winning the game.\n\nThe game includes approximately 100 cards. Both sides of each card depict a country, while only one side of the card includes information about that country's size, population, GDP, and CO₂ emissions. For each game, players decide before playing which of these four country traits they'll compare.\n\nAt the s",
+        "categories": [
+          "Card Game",
+          "Educational",
+          "Trivia"
+        ],
+        "alternateNames": [
+          "Cardline: Světoběžník",
+          "Cardline: Weltenbummler",
+          "知識線地理篇",
+          "카드라인: 지리편"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "jokes de papa",
+      "selectedBggId": 238102,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 238102,
+          "name": "Jokes de Papa",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 269904,
+          "name": "Jokes de Papa: version Salée",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 269905,
+          "name": "Jokes de Papa: version Sucrée",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 238102,
+        "name": "Jokes de Papa",
+        "type": "boardgame",
+        "yearPublished": 2017,
+        "minPlayers": 2,
+        "maxPlayers": 12,
+        "minPlaytime": 20,
+        "maxPlaytime": 40,
+        "minAge": 16,
+        "bggRating": 4.66824,
+        "bggWeight": 1,
+        "communityBestPlayers": 2,
+        "bggLink": "https://boardgamegeek.com/boardgame/238102",
+        "thumbnail": "https://cf.geekdo-images.com/ot5mK3Vaa24glJgzDSZcbQ__small/img/GLIzjlVDlThhhZG-RmPUPhjtnxk=/fit-in/200x150/filters:strip_icc()/pic4089765.jpg",
+        "image": "https://cf.geekdo-images.com/ot5mK3Vaa24glJgzDSZcbQ__original/img/4EzWNY0TeN023dhXtrwhJCnTb48=/0x0/filters:format(jpeg)/pic4089765.jpg",
+        "description": "Start by forming two teams comprised of an equal number of players, then, one player from each team face each other in a duel.\n\nThe first player (chosen at random), draws a \"jokes\" card and reads the joke aloud. The two dueling players must not laugh. If one of them laughs, the opposing team wins the \"jokes\" card. The players standing by may laugh overtly.\n\nTo make more serious players laugh, you can add \"dis ta joke...\" cards. Players must now read jokes in the manner described on the added car",
+        "categories": [
+          "Humor",
+          "Party Game"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "dixit anniversary",
+      "selectedBggId": 256237,
+      "score": 94,
+      "candidates": [
+        {
+          "id": 256237,
+          "name": "Dixit: Anniversary",
+          "type": "boardgame",
+          "score": 94
+        },
+        {
+          "id": 256237,
+          "name": "Dixit: Anniversary",
+          "type": "boardgameexpansion",
+          "score": 94
+        },
+        {
+          "id": 174089,
+          "name": "Dixit: Anniversary Pack",
+          "type": "boardgame",
+          "score": 74
+        },
+        {
+          "id": 174089,
+          "name": "Dixit: Anniversary Pack",
+          "type": "boardgameexpansion",
+          "score": 74
+        }
+      ],
+      "details": {
+        "id": 256237,
+        "name": "Dixit: Anniversary",
+        "type": "boardgameexpansion",
+        "yearPublished": 2018,
+        "minPlayers": 3,
+        "maxPlayers": 6,
+        "minPlaytime": 60,
+        "maxPlaytime": 60,
+        "minAge": 8,
+        "bggRating": 7.88647,
+        "bggWeight": 1.2,
+        "communityBestPlayers": 5,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgameexpansion/256237",
+        "thumbnail": "https://cf.geekdo-images.com/ZzPVtL3QsyZ9w1feJFcMWg__small/img/eXkVZHoP60Ev610l_-sOksYPHSc=/fit-in/200x150/filters:strip_icc()/pic4224418.jpg",
+        "image": "https://cf.geekdo-images.com/ZzPVtL3QsyZ9w1feJFcMWg__original/img/BjckZMUn5IPEZul78J71qXDAqGM=/0x0/filters:format(jpeg)/pic4224418.jpg",
+        "description": "Dixit&hellip; a surprising, enchanting and evocative game to be enjoyed with friends and family alike. This multi-award winning party game returns with Dixit: 10th Anniversary, an 84 card expansion pack.\n\nAll the illustrators of previous expansions have been invited to join the adventure again. With evocations of tales and myths from all around the world, their combined art leads to an amazing result! Get caught up in the Dixit spell and experience a new and amazing journey taking you far beyond",
+        "categories": [
+          "Expansion for Base-game",
+          "Card Game",
+          "Humor"
+        ],
+        "alternateNames": [
+          "Dixit 10: Edycja jubileuszowa",
+          "Dixit 10. Jubileum",
+          "Dixit: 10th Anniversary",
+          "Диксит 9: Юбилейный",
+          "딕싯 확장: 기념일"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "brin de jasette couples",
+      "selectedBggId": 31315,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 31315,
+          "name": "Brin de Jasette",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 63176,
+          "name": "Brin de Jasette Twist",
+          "type": "boardgame",
+          "score": 70
+        }
+      ],
+      "details": {
+        "id": 31315,
+        "name": "Brin de Jasette",
+        "type": "boardgame",
+        "yearPublished": 2006,
+        "minPlayers": 3,
+        "maxPlayers": 8,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 16,
+        "bggRating": 4.51282,
+        "bggWeight": 1,
+        "communityBestPlayers": 4,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/31315",
+        "thumbnail": "https://cf.geekdo-images.com/IYnSbXFmLKmEoHAuUFYBFA__small/img/Nhe9zfe1eyVhdtzCewJVD7hdDx0=/fit-in/200x150/filters:strip_icc()/pic865250.jpg",
+        "image": "https://cf.geekdo-images.com/IYnSbXFmLKmEoHAuUFYBFA__original/img/AsolWtlBveXM6ofhQhXS9YiK1Zs=/0x0/filters:format(jpeg)/pic865250.jpg",
+        "description": "The dice are rolled, a corresponding question card is chosen, and a question is asked to ALL players. There are no right or wrong answers, only personal anecdotes, sharing of memories, future dreams and aspirations, etc. The best banterer is awarded a gemstone and the player with the most gemstones at the end of the game, wins. Sometimes shy, sometimes shocking, almost always surprising!\n\nEach game includes 240 Questions (80 cards), a color die, polished gemstones, and Instructions on how to pla",
+        "categories": [
+          "Trivia"
+        ],
+        "alternateNames": [
+          "A Bit of Banter"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "black stories",
+      "selectedBggId": 18803,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 18803,
+          "name": "Black Stories",
+          "type": "boardgame",
+          "score": 100
+        },
+        {
+          "id": 154727,
+          "name": "Black Stories 1+2",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 168199,
+          "name": "Black Stories 10",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 211788,
+          "name": "Black Stories 13",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 20750,
+          "name": "Black Stories 2",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 18803,
+        "name": "Black Stories",
+        "type": "boardgame",
+        "yearPublished": 2004,
+        "minPlayers": 2,
+        "maxPlayers": 99,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 12,
+        "bggRating": 5.98784,
+        "bggWeight": 1.2557,
+        "communityBestPlayers": 6,
+        "communityMinAge": 12,
+        "bggLink": "https://boardgamegeek.com/boardgame/18803",
+        "thumbnail": "https://cf.geekdo-images.com/NPnm8Pz2-uvMsbeptOX0fw__small/img/DusuyQ7kHboKxDKt70GOvbsEck8=/fit-in/200x150/filters:strip_icc()/pic208686.jpg",
+        "image": "https://cf.geekdo-images.com/NPnm8Pz2-uvMsbeptOX0fw__original/img/-vwJXnQVLSOY9rM8UtpzZhhABTk=/0x0/filters:format(jpeg)/pic208686.jpg",
+        "description": "50 black stories, 31 crimes, 49 corpses, 11 murders, 12 suicides and one deadly meal. How could that have happened? Black Stories are fiddly, morbid and mysterious riddles for teenagers and adults. The players try to reconstruct the crime by asking, guessing and fiddling about. A spooky card game just right for any party.",
+        "categories": [
+          "Card Game",
+          "Deduction",
+          "Horror"
+        ],
+        "alternateNames": [
+          "Black Stories: English Edition",
+          "Black Stories: Latein Edition",
+          "Black Stories: No.1",
+          "Černé historky",
+          "Černé historky",
+          "Czarne historie",
+          "Dark Stories",
+          "Fekete történetek",
+          "Povesti Intunecate",
+          "Storie nere",
+          "Ιστορίες Μυστηρίου",
+          "Мрачные истории: 50 чёрных загадок",
+          "ブラックストーリーズ：50の“黒い”物語",
+          "黑故事集"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "blanc manger coco 2 le deluge",
+      "selectedBggId": 267832,
+      "score": 93,
+      "candidates": [
+        {
+          "id": 267832,
+          "name": "Blanc-Manger Coco 2: Le déluge",
+          "type": "boardgame",
+          "score": 93
+        },
+        {
+          "id": 216706,
+          "name": "Blanc-Manger Coco: La Pilule",
+          "type": "boardgame",
+          "score": 76
+        },
+        {
+          "id": 353473,
+          "name": "Blanc-manger Coco: La Gaule",
+          "type": "boardgame",
+          "score": 72
+        },
+        {
+          "id": 200727,
+          "name": "Blanc-Manger Coco: La Recave",
+          "type": "boardgame",
+          "score": 72
+        },
+        {
+          "id": 269610,
+          "name": "Blanc-Manger Coco: Pot de départ",
+          "type": "boardgame",
+          "score": 69
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 267832,
+        "name": "Blanc-Manger Coco 2: Le déluge",
+        "type": "boardgame",
+        "yearPublished": 2017,
+        "minPlayers": 3,
+        "maxPlayers": 12,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 16,
+        "bggRating": 6.51216,
+        "bggWeight": 1,
+        "communityBestPlayers": 5,
+        "bggLink": "https://boardgamegeek.com/boardgame/267832",
+        "thumbnail": "https://cf.geekdo-images.com/uoGf6dxIKRWRkxrQydbwdQ__small/img/jHSGQnwFX7M_DdgP6lVx42IdB24=/fit-in/200x150/filters:strip_icc()/pic4509785.jpg",
+        "image": "https://cf.geekdo-images.com/uoGf6dxIKRWRkxrQydbwdQ__original/img/VJshabqTSinjKzVEaV_--QYEqdM=/0x0/filters:format(jpeg)/pic4509785.jpg",
+        "description": "Blanc-Manger Coco is a French implementation of Cards Against Humanity.\n\nThe lead player in turn chooses a question with a blank space, other players must choose an answer that must be funny, with the proposed cards having a big chance of being offensive.\n\nA strong knowledge of French language and culture (it that exists) is recommended to understand everything.\n\nThis box include 600 new cards entirely compatible with the first installment, But can also be played by itself.",
+        "categories": [
+          "Card Game",
+          "Humor",
+          "Mature / Adult"
+        ],
+        "alternateNames": [
+          "Coco Rido 2: La Vendemmia"
+        ]
+      }
+    },
+    {
+      "csvName": "yams",
+      "selectedBggId": 304310,
+      "score": 90,
+      "candidates": [
+        {
+          "id": 304310,
+          "name": "Will-Yams",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 128811,
+          "name": "Yams! A Game of Power and Glory in the South Pacific",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 2243,
+          "name": "Yamsi",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 41493,
+          "name": "Yamslam",
+          "type": "boardgame",
+          "score": 90
+        },
+        {
+          "id": 347753,
+          "name": "YAMSTR",
+          "type": "boardgame",
+          "score": 90
+        }
+      ],
+      "details": {
+        "id": 304310,
+        "name": "Will-Yams",
+        "type": "boardgame",
+        "yearPublished": 2016,
+        "minPlayers": 2,
+        "maxPlayers": 10,
+        "minPlaytime": 30,
+        "maxPlaytime": 60,
+        "minAge": 8,
+        "bggRating": 7,
+        "bggLink": "https://boardgamegeek.com/boardgame/304310",
+        "thumbnail": "https://cf.geekdo-images.com/dqYcseQrXZGY_x7PoQsL4Q__small/img/GGdnTT0KPD7oZv2PXxaagxAHVGM=/fit-in/200x150/filters:strip_icc()/pic5478613.png",
+        "image": "https://cf.geekdo-images.com/dqYcseQrXZGY_x7PoQsL4Q__original/img/76blcl1a0buRwFsGggVVmAGj-9Q=/0x0/filters:format(png)/pic5478613.png",
+        "description": "The principle of the game is to align cubes \"to make combinations like poker or yams\". The game consists of 26 cubes, each with two visuals of playing cards. It is played face to face: when all the cubes are turned over, each player announces his best combination: royal flush, square, full, three of a kind, etc.",
+        "categories": [
+          "Abstract Strategy"
+        ]
+      },
+      "status": "confirmed"
+    },
+    {
+      "csvName": "family grabolo",
+      "selectedBggId": 142517,
+      "score": 71,
+      "candidates": [
+        {
+          "id": 156880,
+          "name": "Family Golf",
+          "type": "boardgame",
+          "score": 71
+        },
+        {
+          "id": 343576,
+          "name": "Family Boom",
+          "type": "boardgame",
+          "score": 64
+        },
+        {
+          "id": 337743,
+          "name": "Family Frakass",
+          "type": "boardgame",
+          "score": 64
+        },
+        {
+          "id": 255661,
+          "name": "Family Trade",
+          "type": "boardgame",
+          "score": 64
+        },
+        {
+          "id": 2398,
+          "name": "Family Cribbage",
+          "type": "boardgame",
+          "score": 60
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 142517,
+        "name": "Grabolo",
+        "type": "boardgame",
+        "yearPublished": 2012,
+        "minPlayers": 3,
+        "maxPlayers": 5,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 4,
+        "bggRating": 5.79416,
+        "bggWeight": 1.4286,
+        "communityBestPlayers": 2,
+        "communityMinAge": 4,
+        "bggLink": "https://boardgamegeek.com/boardgame/142517",
+        "thumbnail": "https://cf.geekdo-images.com/PZqGUhbpOmu9SbVds2weaA__small/img/bC98Y5FpolOk1_QkbJZ6J204b_4=/fit-in/200x150/filters:strip_icc()/pic6916047.png",
+        "image": "https://cf.geekdo-images.com/PZqGUhbpOmu9SbVds2weaA__original/img/D2i-X9YKbj0IBirxygUgB5DmJJ0=/0x0/filters:format(png)/pic6916047.png",
+        "description": "Prove that you have the best eyes and the fastest hands at the table!\n\nEach turn in Grabolo someone rolls two dice, then everyone tries to grab the disk matching the color and the number on the dice. If that disk isn't on the table because someone's already grabbed it, then be the first to identify who has this disk in his pile.",
+        "categories": [
+          "Children&#039;s Game",
+          "Dice",
+          "Educational"
+        ],
+        "alternateNames": [
+          "Bogyó és Babóca",
+          "Grabit",
+          "Grabolo Junior",
+          "Grabolo Kisvakond",
+          "Grabolo: Little Mole",
+          "와글와글 사파리"
+        ]
+      }
+    },
+    {
+      "csvName": "défi nature volcans",
+      "selectedBggId": 100670,
+      "score": 53,
+      "candidates": [
+        {
+          "id": 100670,
+          "name": "Défis Nature",
+          "type": "boardgame",
+          "score": 53
+        },
+        {
+          "id": 387101,
+          "name": "Défis Nature: Dinosaure 1",
+          "type": "boardgame",
+          "score": 52
+        },
+        {
+          "id": 452050,
+          "name": "Le Tournoi: Défis Nature Protect",
+          "type": "boardgame",
+          "score": 38
+        },
+        {
+          "id": 18186,
+          "name": "Les Défis de la Nature",
+          "type": "boardgame",
+          "score": 18
+        }
+      ],
+      "details": {
+        "id": 100670,
+        "name": "Défis Nature: Animaux Marins",
+        "type": "boardgame",
+        "yearPublished": 2009,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 7,
+        "bggRating": 5.02038,
+        "bggWeight": 1,
+        "communityBestPlayers": 2,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/100670",
+        "thumbnail": "https://cf.geekdo-images.com/arrxi3wRRLJNlKBRZ1vGwA__small/img/wI3qS_c_Lwk2Pk97Enpj9tPJkI8=/fit-in/200x150/filters:strip_icc()/pic1023213.jpg",
+        "image": "https://cf.geekdo-images.com/arrxi3wRRLJNlKBRZ1vGwA__original/img/EqyuAwnCtzUOGvLu_F3MHpKU3d8=/0x0/filters:format(jpeg)/pic1023213.jpg",
+        "description": "D&eacute;fis Nature (a.k.a. \"Nature challenge\" or \"Desaf&iacute;os Naturaleza\") is a quick and educational nature themed card game.\n\nThe goal is to hold all the cards of the game.\nfor shorter games, players can choose a playing time and the winner is the player with the most cards in hands at the end.\n\nEach card shows an animal with some infos and four or five caracteristics (depending of the edition).\nThe first player choose a caracteristic (for exemple \"speed\") and lays a card, in turn each pl",
+        "categories": [
+          "Animals",
+          "Card Game",
+          "Children&#039;s Game"
+        ],
+        "alternateNames": [
+          "Défis Nature: À la rencontre des primates",
+          "Défis Nature: Animaux Marins",
+          "Défis Nature: Animaux rigolos",
+          "Défis Nature: Dans le sillage des animaux marins",
+          "Défis Nature: Dans les airs avec les Oiseaux",
+          "Défis Nature: Sur la piste des carnivores",
+          "Défis Nature: Sur les traces des reptiles",
+          "Desafíos de la naturaleza",
+          "Herausforderung Natur: Primaten",
+          "Nature Challenge"
+        ]
+      },
+      "status": "confirmed",
+      "nomOverride": "Défis Nature : Volcans"
+    },
+    {
+      "csvName": "défi nature France",
+      "selectedBggId": 100670,
+      "score": 56,
+      "candidates": [
+        {
+          "id": 100670,
+          "name": "Défis Nature",
+          "type": "boardgame",
+          "score": 56
+        },
+        {
+          "id": 387101,
+          "name": "Défis Nature: Dinosaure 1",
+          "type": "boardgame",
+          "score": 56
+        },
+        {
+          "id": 452050,
+          "name": "Le Tournoi: Défis Nature Protect",
+          "type": "boardgame",
+          "score": 44
+        },
+        {
+          "id": 18186,
+          "name": "Les Défis de la Nature",
+          "type": "boardgame",
+          "score": 27
+        }
+      ],
+      "details": {
+        "id": 100670,
+        "name": "Défis Nature",
+        "type": "boardgame",
+        "yearPublished": 2009,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 7,
+        "bggRating": 5.02038,
+        "bggWeight": 1,
+        "communityBestPlayers": 2,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/100670",
+        "thumbnail": "https://cf.geekdo-images.com/arrxi3wRRLJNlKBRZ1vGwA__small/img/wI3qS_c_Lwk2Pk97Enpj9tPJkI8=/fit-in/200x150/filters:strip_icc()/pic1023213.jpg",
+        "image": "https://cf.geekdo-images.com/arrxi3wRRLJNlKBRZ1vGwA__original/img/EqyuAwnCtzUOGvLu_F3MHpKU3d8=/0x0/filters:format(jpeg)/pic1023213.jpg",
+        "description": "D&eacute;fis Nature (a.k.a. \"Nature challenge\" or \"Desaf&iacute;os Naturaleza\") is a quick and educational nature themed card game.\n\nThe goal is to hold all the cards of the game.\nfor shorter games, players can choose a playing time and the winner is the player with the most cards in hands at the end.\n\nEach card shows an animal with some infos and four or five caracteristics (depending of the edition).\nThe first player choose a caracteristic (for exemple \"speed\") and lays a card, in turn each pl",
+        "categories": [
+          "Animals",
+          "Card Game",
+          "Children&#039;s Game"
+        ],
+        "alternateNames": [
+          "Défis Nature: À la rencontre des primates",
+          "Défis Nature: Animaux Marins",
+          "Défis Nature: Animaux rigolos",
+          "Défis Nature: Dans le sillage des animaux marins",
+          "Défis Nature: Dans les airs avec les Oiseaux",
+          "Défis Nature: Sur la piste des carnivores",
+          "Défis Nature: Sur les traces des reptiles",
+          "Desafíos de la naturaleza",
+          "Herausforderung Natur: Primaten",
+          "Nature Challenge"
+        ]
+      },
+      "status": "confirmed",
+      "nomOverride": "Défis Nature : France"
+    },
+    {
+      "csvName": "défi nature afrique",
+      "selectedBggId": 100670,
+      "score": 56,
+      "candidates": [
+        {
+          "id": 387101,
+          "name": "Défis Nature: Dinosaure 1",
+          "type": "boardgame",
+          "score": 56
+        },
+        {
+          "id": 100670,
+          "name": "Défis Nature",
+          "type": "boardgame",
+          "score": 53
+        },
+        {
+          "id": 452050,
+          "name": "Le Tournoi: Défis Nature Protect",
+          "type": "boardgame",
+          "score": 38
+        },
+        {
+          "id": 18186,
+          "name": "Les Défis de la Nature",
+          "type": "boardgame",
+          "score": 27
+        }
+      ],
+      "details": {
+        "id": 100670,
+        "name": "Défis Nature: Animaux Marins",
+        "type": "boardgame",
+        "yearPublished": 2009,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 7,
+        "bggRating": 5.02038,
+        "bggWeight": 1,
+        "communityBestPlayers": 2,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/100670",
+        "thumbnail": "https://cf.geekdo-images.com/arrxi3wRRLJNlKBRZ1vGwA__small/img/wI3qS_c_Lwk2Pk97Enpj9tPJkI8=/fit-in/200x150/filters:strip_icc()/pic1023213.jpg",
+        "image": "https://cf.geekdo-images.com/arrxi3wRRLJNlKBRZ1vGwA__original/img/EqyuAwnCtzUOGvLu_F3MHpKU3d8=/0x0/filters:format(jpeg)/pic1023213.jpg",
+        "description": "D&eacute;fis Nature (a.k.a. \"Nature challenge\" or \"Desaf&iacute;os Naturaleza\") is a quick and educational nature themed card game.\n\nThe goal is to hold all the cards of the game.\nfor shorter games, players can choose a playing time and the winner is the player with the most cards in hands at the end.\n\nEach card shows an animal with some infos and four or five caracteristics (depending of the edition).\nThe first player choose a caracteristic (for exemple \"speed\") and lays a card, in turn each pl",
+        "categories": [
+          "Animals",
+          "Card Game",
+          "Children&#039;s Game"
+        ],
+        "alternateNames": [
+          "Défis Nature: À la rencontre des primates",
+          "Défis Nature: Animaux Marins",
+          "Défis Nature: Animaux rigolos",
+          "Défis Nature: Dans le sillage des animaux marins",
+          "Défis Nature: Dans les airs avec les Oiseaux",
+          "Défis Nature: Sur la piste des carnivores",
+          "Défis Nature: Sur les traces des reptiles",
+          "Desafíos de la naturaleza",
+          "Herausforderung Natur: Primaten",
+          "Nature Challenge"
+        ]
+      },
+      "status": "confirmed",
+      "nomOverride": "Défis Nature : Afrique"
+    },
+    {
+      "csvName": "défi nature minéraux",
+      "selectedBggId": 100670,
+      "score": 64,
+      "candidates": [
+        {
+          "id": 387101,
+          "name": "Défis Nature: Dinosaure 1",
+          "type": "boardgame",
+          "score": 64
+        },
+        {
+          "id": 100670,
+          "name": "Défis Nature",
+          "type": "boardgame",
+          "score": 50
+        },
+        {
+          "id": 452050,
+          "name": "Le Tournoi: Défis Nature Protect",
+          "type": "boardgame",
+          "score": 34
+        },
+        {
+          "id": 18186,
+          "name": "Les Défis de la Nature",
+          "type": "boardgame",
+          "score": 18
+        }
+      ],
+      "details": {
+        "id": 100670,
+        "name": "Défis Nature: Minéraux",
+        "type": "boardgame",
+        "yearPublished": 2009,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 20,
+        "maxPlaytime": 20,
+        "minAge": 7,
+        "bggRating": 5.02038,
+        "bggWeight": 1,
+        "communityBestPlayers": 2,
+        "communityMinAge": 6,
+        "bggLink": "https://boardgamegeek.com/boardgame/100670",
+        "thumbnail": "https://cf.geekdo-images.com/arrxi3wRRLJNlKBRZ1vGwA__small/img/wI3qS_c_Lwk2Pk97Enpj9tPJkI8=/fit-in/200x150/filters:strip_icc()/pic1023213.jpg",
+        "image": "https://cf.geekdo-images.com/arrxi3wRRLJNlKBRZ1vGwA__original/img/EqyuAwnCtzUOGvLu_F3MHpKU3d8=/0x0/filters:format(jpeg)/pic1023213.jpg",
+        "description": "D&eacute;fis Nature (a.k.a. \"Nature challenge\" or \"Desaf&iacute;os Naturaleza\") is a quick and educational nature themed card game.\n\nThe goal is to hold all the cards of the game.\nfor shorter games, players can choose a playing time and the winner is the player with the most cards in hands at the end.\n\nEach card shows an animal with some infos and four or five caracteristics (depending of the edition).\nThe first player choose a caracteristic (for exemple \"speed\") and lays a card, in turn each pl",
+        "categories": [
+          "Animals",
+          "Card Game",
+          "Children&#039;s Game"
+        ],
+        "alternateNames": [
+          "Défis Nature: À la rencontre des primates",
+          "Défis Nature: Animaux Marins",
+          "Défis Nature: Animaux rigolos",
+          "Défis Nature: Dans le sillage des animaux marins",
+          "Défis Nature: Dans les airs avec les Oiseaux",
+          "Défis Nature: Sur la piste des carnivores",
+          "Défis Nature: Sur les traces des reptiles",
+          "Desafíos de la naturaleza",
+          "Herausforderung Natur: Primaten",
+          "Nature Challenge"
+        ]
+      },
+      "status": "confirmed",
+      "nomOverride": "Défis Nature : Minéraux"
+    },
+    {
+      "csvName": "c'est l'plombier",
+      "selectedBggId": 335377,
+      "score": 33,
+      "candidates": [
+        {
+          "id": 183347,
+          "name": "C&#039;est le facteur",
+          "type": "boardgame",
+          "score": 33
+        },
+        {
+          "id": 1943,
+          "name": "C&#039;est le jeu de Bonkers!",
+          "type": "boardgame",
+          "score": 31
+        },
+        {
+          "id": 2041,
+          "name": "C&#039;est le Depart!",
+          "type": "boardgame",
+          "score": 29
+        },
+        {
+          "id": 36584,
+          "name": "C&#039;est la vie!",
+          "type": "boardgame",
+          "score": 28
+        },
+        {
+          "id": 115,
+          "name": "C&#039;est moi le patron!",
+          "type": "boardgame",
+          "score": 28
+        }
+      ],
+      "status": "confirmed",
+      "details": {
+        "id": 335377,
+        "name": "Heroes Tournament",
+        "type": "boardgame",
+        "yearPublished": 2021,
+        "minPlayers": 4,
+        "maxPlayers": 6,
+        "minPlaytime": 30,
+        "maxPlaytime": 90,
+        "minAge": 12,
+        "bggLink": "https://boardgamegeek.com/boardgame/335377",
+        "description": "Heroes Tournament is a deck building RPG game featuring multiple heroes and their unique powers. The winner will be crowned as the Ultimate Hero Champion and players must collect 9 out of 13 of their power cards in order to be the strongest hero.\n\nOn top of all of the battles between heroes, there will also be monsters lurking about in order to disrupt the process. Heroes can team up with each other until they've reached to the point of death match where they'll have to face each other.\n\n&mdash;",
+        "categories": [
+          "Card Game",
+          "Collectible Components"
+        ]
+      }
+    },
+    {
+      "csvName": "times up family 1",
+      "selectedBggId": 88126,
+      "score": 10,
+      "candidates": [
+        {
+          "id": 416958,
+          "name": "Однажды в Чикаго 1930: Новые времена (Once upon a time in Chicago 1930: New times)",
+          "type": "boardgame",
+          "score": 10
+        },
+        {
+          "id": 416958,
+          "name": "Однажды в Чикаго 1930: Новые времена (Once upon a time in Chicago 1930: New times)",
+          "type": "boardgameexpansion",
+          "score": 10
+        }
+      ],
+      "details": {
+        "id": 88126,
+        "name": "Time's Up! Family 1",
+        "type": "boardgame",
+        "yearPublished": 2010,
+        "minPlayers": 4,
+        "maxPlayers": 12,
+        "minPlaytime": 30,
+        "maxPlaytime": 30,
+        "minAge": 8,
+        "bggRating": 7.27823,
+        "bggWeight": 1.087,
+        "communityBestPlayers": 6,
+        "communityMinAge": 8,
+        "bggLink": "https://boardgamegeek.com/boardgame/88126",
+        "thumbnail": "https://cf.geekdo-images.com/IaRRFgVPFUkhklzt96Z3sA__small/img/t3qrVwTjF04gioPupyc7gfnqDis=/fit-in/200x150/filters:strip_icc()/pic903503.jpg",
+        "image": "https://cf.geekdo-images.com/IaRRFgVPFUkhklzt96Z3sA__original/img/om1i6A7psef4laC7y35CI9VO7Bs=/0x0/filters:format(jpeg)/pic903503.jpg",
+        "description": "Time's Up! Family is a charades-based party game for teams of two or more players (and is best with teams of two). Before the game begins, each player looks at several cards featuring well-known items, crafts and animals and chooses some of them. Each player's cards are shuffled to form a deck, and this deck is used for each of the game's three rounds.\n\nIn each round, team members take turns trying to get their teammates to guess as many words and phrases on the cards as possible in 30 seconds. ",
+        "categories": [
+          "Memory",
+          "Party Game"
+        ],
+        "alternateNames": [
+          "Sag's mir! Familie",
+          "Time's Up! Family 1",
+          "Time's Up! Rodina",
+          "타임즈 업! 패밀리"
+        ]
+      },
+      "status": "confirmed"
+    }
+  ],
+  "needsReview": [],
+  "notFound": [
+    {
+      "csvName": "gai-luron",
+      "selectedBggId": null,
+      "status": "notFound",
+      "score": 0,
+      "candidates": []
+    },
+    {
+      "csvName": "smilo animaux sauvage",
+      "selectedBggId": null,
+      "status": "notFound",
+      "score": 0,
+      "candidates": []
+    },
+    {
+      "csvName": "rollcubd master chef",
+      "selectedBggId": null,
+      "status": "notFound",
+      "score": 0,
+      "candidates": []
+    }
+  ],
+  "unidentified": [
+    {
+      "csvName": "soirée escape game: les 7 pieces de cristal",
+      "selectedBggId": null,
+      "score": 56,
+      "candidates": [
+        {
+          "id": 327001,
+          "name": "Soirée Escape Game: Panique à Tchernobyl",
+          "type": "boardgame",
+          "score": 56
+        },
+        {
+          "id": 293439,
+          "name": "Soirée Escape Game: Prison&#039; scape",
+          "type": "boardgame",
+          "score": 51
+        }
+      ],
+      "details": {
+        "id": 327001,
+        "name": "Soirée Escape Game: Panique à Tchernobyl",
+        "type": "boardgame",
+        "yearPublished": 2020,
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "minPlaytime": 60,
+        "maxPlaytime": 60,
+        "minAge": 14,
+        "bggLink": "https://boardgamegeek.com/boardgame/327001",
+        "thumbnail": "https://cf.geekdo-images.com/hC2muVt_-Rsw1CuCRfzCkg__small/img/G-sFQv9YESzH9eZ8Jn8LE5bo8eI=/fit-in/200x150/filters:strip_icc()/pic5926333.jpg",
+        "image": "https://cf.geekdo-images.com/hC2muVt_-Rsw1CuCRfzCkg__original/img/-sbjvGsNr7eNt8_7la6yrBi89TQ=/0x0/filters:format(jpeg)/pic5926333.jpg",
+        "description": "A complete kit to organize an incredible escape game evening with friends, in one of the most oppressive worlds: the Chernobyl power station, in Ukraine, transformed into a death trap. \nAn unprecedented catastrophe will shake your life when, following hazardous handling, Reactor No. 4 melts.\n\nTry to escape, find iodine pills, the right combination, a vehicle and&hellip; get out of the disaster scene as soon as possible!\n\n&mdash;description from the publisher",
+        "categories": [
+          "Deduction",
+          "Puzzle",
+          "Real-time"
+        ]
+      },
+      "status": "unidentified"
+    },
+    {
+      "csvName": "quiz année 90",
+      "selectedBggId": null,
+      "score": 45,
+      "candidates": [
+        {
+          "id": 326375,
+          "name": "Box Quiz: Danske Øer",
+          "type": "boardgame",
+          "score": 45
+        },
+        {
+          "id": 240562,
+          "name": "Box Quiz: Animerad Film",
+          "type": "boardgame",
+          "score": 39
+        },
+        {
+          "id": 240554,
+          "name": "Box Quiz: Børne TV",
+          "type": "boardgame",
+          "score": 39
+        },
+        {
+          "id": 240564,
+          "name": "Box Quiz: Talknuseren",
+          "type": "boardgame",
+          "score": 38
+        },
+        {
+          "id": 50067,
+          "name": "Quizzard Game Books",
+          "type": "boardgameexpansion",
+          "score": 37
+        }
+      ],
+      "status": "unidentified"
+    },
+    {
+      "csvName": "domino puzzle carte de France",
+      "selectedBggId": null,
+      "score": 41,
+      "candidates": [
+        {
+          "id": 38961,
+          "name": "Domino-Puzzle",
+          "type": "boardgame",
+          "score": 41
+        },
+        {
+          "id": 31111,
+          "name": "Object Puzzle Dominoes",
+          "type": "boardgame",
+          "score": 34
+        },
+        {
+          "id": 204498,
+          "name": "Puzzle Domino",
+          "type": "boardgame",
+          "score": 31
+        }
+      ],
+      "details": {
+        "id": 38961,
+        "name": "Domino-Puzzle",
+        "type": "boardgame",
+        "yearPublished": 0,
+        "minPlayers": 1,
+        "maxPlayers": 8,
+        "bggRating": 4,
+        "bggLink": "https://boardgamegeek.com/boardgame/38961",
+        "thumbnail": "https://cf.geekdo-images.com/5d0BX_7w9daJvLWrSJEiYw__small/img/toEKtxs00ZqNKcynzpkAVZFci-c=/fit-in/200x150/filters:strip_icc()/pic389701.jpg",
+        "image": "https://cf.geekdo-images.com/5d0BX_7w9daJvLWrSJEiYw__original/img/ay4FBjBgfvVm3Myq8a4heDslhC8=/0x0/filters:format(jpeg)/pic389701.jpg",
+        "description": "The game of Domino-Puzzle combines the fun of dominoes and puzzles.  The game uses the basic rules of Dominoes, except players can play as many tiles during their turn that they can match to existing tiles  You could, for example, play 5 tiles in one turn by chaining them end to end.\n\nThe pictures on the tiles are animals.  And each end contains half an animal.  Each end of the tile can only be matched to one other tile so when you are done, you have one long chain that wraps around to form a re",
+        "categories": [
+          "Animals",
+          "Children&#039;s Game",
+          "Puzzle"
+        ]
+      },
+      "status": "unidentified"
+    }
+  ],
+  "noBgg": [
+    {
+      "csvName": "tam tam tic tac",
+      "nomOverride": "Tam Tam Tic Tac",
+      "status": "noBgg"
+    },
+    {
+      "csvName": "tam tam chrono",
+      "nomOverride": "Tam Tam Chrono",
+      "status": "noBgg"
+    },
+    {
+      "csvName": "gai-luron",
+      "nomOverride": "Gaï-Luron",
+      "status": "noBgg"
+    },
+    {
+      "csvName": "smilo animaux sauvage",
+      "nomOverride": "Smilo Animaux Sauvages",
+      "status": "noBgg"
+    },
+    {
+      "csvName": "rollcubd master chef",
+      "nomOverride": "RollCubd Master Chef",
+      "status": "noBgg"
+    },
+    {
+      "csvName": "soirée escape game: les 7 pieces de cristal",
+      "nomOverride": "Soirée Escape Game : Les 7 Pièces de Cristal",
+      "status": "noBgg"
+    },
+    {
+      "csvName": "quiz année 90",
+      "nomOverride": "Quiz Années 90",
+      "status": "noBgg"
+    },
+    {
+      "csvName": "domino puzzle carte de France",
+      "nomOverride": "Domino Puzzle Carte de France",
+      "status": "noBgg"
+    }
+  ]
+}

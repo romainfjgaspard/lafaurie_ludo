@@ -30,7 +30,12 @@ const props = defineProps<{
   alt?: string
 }>()
 
-const src = ref(props.imageUrl ?? '')
+function buildSrc(url?: string): string {
+  if (!url) return ''
+  if (url.startsWith('http') || url.startsWith('/')) return url
+  return `${import.meta.env.BASE_URL}images/games/${url}`
+}
+const src = ref(buildSrc(props.imageUrl))
 const imageLoaded = ref(false)
 
 const initial = computed(() => props.name.trim().charAt(0).toUpperCase())
