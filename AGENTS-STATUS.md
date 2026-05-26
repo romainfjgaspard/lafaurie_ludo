@@ -1,41 +1,59 @@
 # AGENTS-STATUS.md — État du projet au 26/05/2026
 
-## Statut : Initialisation
+## Statut : Déployé — corrections en cours
 
-Projet créé à partir de bredy_ludo. Firebase project et import BGG à configurer.
+Site en ligne : https://romainfjgaspard.github.io/lafaurie_ludo/
+Firestore : projet `lafaurie-ludo` (données importées ~82 jeux)
 
 ---
 
-## À faire (dans l'ordre)
+## Corrections appliquées (26/05/2026)
 
-### 1. Créer le projet Firebase
-- Console Firebase → nouveau projet `lafaurie-ludo`
-- Activer Firestore, Authentication (Email/Password)
-- Récupérer les credentials web → remplir `.env.local`
-- Mettre à jour `.firebaserc` avec l'ID réel du projet
-- Déployer les règles et index Firestore :
-  ```bash
-  npx firebase deploy --only firestore:rules,firestore:indexes
-  ```
+### Affichage (frontend)
+- **Images** : `GameCover` construit l'URL correcte avec `BASE_URL + images/games/`
+- **Catégories** : traduites en français via `src/utils/translateCategory.ts`
+- **Descriptions** : retirées (étaient en anglais, BGG ne fournit pas de FR)
+- **Colonne Casier** : ajoutée dans le tableau après "Note" (triable)
 
-### 2. Import BGG depuis ludo.xlsx
-```bash
-npm install
-npm run import:parse        # lire le xlsx
-npm run import:bgg          # chercher sur BGG (nécessite BGG_USERNAME/BGG_PASSWORD dans .env.local)
-npm run import:reconcile    # associer les jeux
-npm run import:report       # rapport
-npm run import:images       # télécharger les images
-npm run import:check        # vérifier
-npm run import:dry          # dry-run import Firestore
-npm run import:run          # import réel
-```
+### Données Firestore (script `fixGameNames.ts`)
+- **7 Wonders Duel** : doublon supprimé, extension "Pantheon" (bgg:202976) ajoutée
+- **Heat** : doublon supprimé, extension "Tunnel Vision" (bgg:436904) ajoutée
+- **Défis Nature** : 4 variantes renommées (Volcans, France, Afrique, Minéraux)
+- **Tam Tam** : 2 jeux renommés "Tam Tam Tic Tac" et "Tam Tam Chrono"
+- **6 jeux sans BGG** ajoutés : Gaï-Luron, Smilo Animaux Sauvages, RollCubd Master Chef,
+  Soirée Escape Game Les 7 Pièces de Cristal, Quiz Années 90, Domino Puzzle Carte de France
 
-### 3. GitHub Pages
-- Settings → Pages → Source → "GitHub Actions"
-- Ajouter les secrets Firebase dans les secrets GitHub du repo
+### Scripts d'import mis à jour
+- `importFirestore.ts` : gère `nomOverride` et section `noBgg`
+- `reconciled-games.json` : reflète les corrections ci-dessus
+- Nouvelles images téléchargées : `202976.jpg`, `436904.jpg`
 
-### 4. Compte admin
+---
+
+## À faire manuellement
+
+### Casiers (emplacements)
+Tous les jeux ont `emplacement: "A1"` par défaut.
+→ Mettre à jour via l'interface admin (champ Casier dans la fiche jeu)
+
+### Jeux sans infos BGG (8 jeux)
+Ces jeux ont été ajoutés avec juste le nom, sans métadonnées :
+- Tam Tam Tic Tac
+- Tam Tam Chrono
+- Gaï-Luron
+- Smilo Animaux Sauvages
+- RollCubd Master Chef
+- Soirée Escape Game : Les 7 Pièces de Cristal
+- Quiz Années 90
+- Domino Puzzle Carte de France
+
+→ Compléter via l'interface admin (joueurs, durée, âge...)
+
+### Compte admin
 ```bash
 npx tsx scripts/admin/setAdminClaim.ts <email>
 ```
+
+### Déploiement GitHub Pages
+Push sur `main` → build auto → GitHub Pages.
+S'assurer que Settings → Pages → Source = "GitHub Actions"
