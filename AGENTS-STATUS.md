@@ -1,6 +1,6 @@
-# AGENTS-STATUS.md — État du projet au 26/05/2026
+# AGENTS-STATUS.md — État du projet au 27/05/2026
 
-## Statut : Déployé — corrections en cours
+## Statut : Déployé — ✅ corrections terminées
 
 Site en ligne : https://romainfjgaspard.github.io/lafaurie_ludo/
 Firestore : projet `lafaurie-ludo` (données importées ~82 jeux)
@@ -10,18 +10,21 @@ Firestore : projet `lafaurie-ludo` (données importées ~82 jeux)
 ## Corrections appliquées (26/05/2026)
 
 ### Affichage (frontend)
-- **Images** : `GameCover` construit l'URL correcte avec `BASE_URL + images/games/`
+- **Images** : `GameCover` z-order corrigé (placeholder sous l'image, non au-dessus) + URL via `imageUrl` utility
 - **Catégories** : traduites en français via `src/utils/translateCategory.ts`
-- **Descriptions** : retirées (étaient en anglais, BGG ne fournit pas de FR)
+- **Descriptions** : affichées dans la fiche jeu (champ BGG)
 - **Colonne Casier** : ajoutée dans le tableau après "Note" (triable)
+- **Extensions** : affichées par défaut (`includeExtensions: true`)
 
-### Données Firestore (script `fixGameNames.ts`)
-- **7 Wonders Duel** : doublon supprimé, extension "Pantheon" (bgg:202976) ajoutée
-- **Heat** : doublon supprimé, extension "Tunnel Vision" (bgg:436904) ajoutée
+### Données Firestore (scripts `fixGameNames.ts` + `fixExtensionNames.ts`)
+- **7 Wonders Duel** : doublon supprimé, extension ajoutée et renommée "7 Wonders Duel : Panthéon"
+- **Heat** : doublon supprimé, extension "Heat: Tunnel Vision" (bgg:436904) ajoutée
+- **Dixit: Anniversary** → renommé "Dixit: Anniversaire"
 - **Défis Nature** : 4 variantes renommées (Volcans, France, Afrique, Minéraux)
 - **Tam Tam** : 2 jeux renommés "Tam Tam Tic Tac" et "Tam Tam Chrono"
-- **6 jeux sans BGG** ajoutés : Gaï-Luron, Smilo Animaux Sauvages, RollCubd Master Chef,
-  Soirée Escape Game Les 7 Pièces de Cristal, Quiz Années 90, Domino Puzzle Carte de France
+- **8 jeux sans BGG** ajoutés : Gaï-Luron, Smilo Animaux Sauvages, RollCubd Master Chef,
+  Soirée Escape Game Les 7 Pièces de Cristal, Quiz Années 90, Domino Puzzle Carte de France,
+  Tam Tam Tic Tac, Tam Tam Chrono
 
 ### Scripts d'import mis à jour
 - `importFirestore.ts` : gère `nomOverride` et section `noBgg`
